@@ -1,0 +1,47 @@
+# Android Studio/IntelliJ
+.idea/
+*.iml
+
+# Gradle
+.gradle/
+local.properties
+
+# Build
+/build/
+**/build/
+
+# Keystore files (ніколи не коміть ключі підпису)
+*.jks
+*.keystore
+
+# External native build
+.externalNativeBuild/
+.cxx/
+
+# Screenshots and test captures
+captures/
+
+# KSP & KAPT generated files
+**/build/generated/
+**/build/tmp/
+**/build/ksp/
+**/build/intermediates/
+**/build/outputs/
+
+# Crashlytics and Firebase
+fabric.properties
+crashlytics.properties
+google-services.json
+
+# Room schema (якщо не хочеш комітити)
+schemas/
+
+# .env files (секрети для backend або API)
+*.env
+
+# Misc log/temp files
+*.log
+*.tmp
+
+# macOS junk
+.DS_Store
