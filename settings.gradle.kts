@@ -21,4 +21,9 @@ dependencyResolutionManagement {
 
 rootProject.name = "QuickPass Ireland"
 include(":app")
- 
+
+include(":data")
+
+include(":features:home:data-api")
+include(":features:home:domain")
+include(":features:home:presentation")

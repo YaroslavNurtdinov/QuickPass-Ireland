@@ -44,6 +44,10 @@ android {
 }
 
 dependencies {
+    implementation(project(":data"))
+    implementation(project(":features:home:data-api"))
+    implementation(project(":features:home:domain"))
+    implementation(project(":features:home:presentation"))
 
     implementation(libs.hilt)
     ksp(libs.hilt.compiler)

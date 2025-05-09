@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mock_theory_test">Mock Theory Test</string>
+    <string name="mock_driver_theory_test">Mock Driver Theory Test</string>
+    <string name="home_plate">On this plate, you will see Random Road Sign \n and description for him, \nto learn faster.</string>
+</resources>

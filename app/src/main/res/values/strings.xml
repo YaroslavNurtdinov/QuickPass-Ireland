@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">QuickPass Ireland</string>
+    <string name="hello">Welcome, Mr.Smith</string>
+    <string name="you_have_40_minutes">You have 40 minutes.</string>
+    <string name="progress_history">Progress history.</string>
+    <string name="settings">Settings</string>
+    <string name="share">Share</string>
+    <string name="info">Info</string>
+    <string name="report">Report</string>
 </resources>
