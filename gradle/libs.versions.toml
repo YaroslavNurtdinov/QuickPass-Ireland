@@ -5,9 +5,9 @@ coreKtx = "1.16.0"
 junit = "4.13.2"
 junitVersion = "1.2.1"
 espressoCore = "3.6.1"
-lifecycleRuntimeKtx = "2.8.7"
+lifecycleRuntimeKtx = "2.9.0"
 activityCompose = "1.10.1"
-composeBom = "2025.04.01"
+composeBom ="2025.04.01"
 ksp = "2.1.20-1.0.32"
 hilt = "2.56.1"
 hiltNavCompose = "1.2.0"
@@ -21,8 +21,8 @@ moshiVersion = "1.15.2"
 coilVersion = "3.1.0"
 appcompat = "1.7.0"
 material = "1.12.0"
-jetbrainsKotlinJvm = "2.1.20"
 coroutines = "1.10.1"
+datastore = "1.1.6"
 
 [libraries]
 
@@ -43,6 +43,7 @@ moshi = { module = "com.squareup.moshi:moshi", version.ref = "moshiVersion" }
 moshi-converter = { module = "com.squareup.retrofit2:converter-moshi", version.ref = "retrofitVersion" }
 coil = { module = "io.coil-kt.coil3:coil-compose", version.ref = "coilVersion" }
 coroutines = { module = "org.jetbrains.kotlinx:kotlinx-coroutines-core", version.ref = "coroutines" }
+datastore-preferences = { module = "androidx.datastore:datastore-preferences", version.ref = "datastore" }
 
 coroutines-test = { module = "org.jetbrains.kotlinx:kotlinx-coroutines-test", version.ref = "coroutines" }
 room-test = { module = "androidx.room:room-testing", version.ref = "roomVersion" }
@@ -65,14 +66,21 @@ androidx-material3 = { group = "androidx.compose.material3", name = "material3" 
 androidx-appcompat = { group = "androidx.appcompat", name = "appcompat", version.ref = "appcompat" }
 material = { group = "com.google.android.material", name = "material", version.ref = "material" }
 
-[plugins]
-android-application = { id = "com.android.application", version.ref = "agp" }
-kotlin-android = { id = "org.jetbrains.kotlin.android", version.ref = "kotlin" }
-kotlin-compose = { id = "org.jetbrains.kotlin.plugin.compose", version.ref = "kotlin" }
+plugin-android-application = { module = "com.android.application:com.android.application.gradle.plugin", version.ref = "agp" }
+plugin-kotlin-android = { module = "org.jetbrains.kotlin.android:org.jetbrains.kotlin.android.gradle.plugin", version.ref = "kotlin" }
+plugin-kotlin-compose = { module = "org.jetbrains.kotlin.plugin.compose:org.jetbrains.kotlin.plugin.compose.gradle.plugin", version.ref = "kotlin" }
+plugin-android-library = { module = "com.android.library:com.android.library.gradle.plugin", version.ref = "agp" }
+plugin-kotlin-jvm = { module = "org.jetbrains.kotlin.jvm:org.jetbrains.kotlin.jvm.gradle.plugin", version.ref = "kotlin" }
+plugin-ksp = { module = "com.google.devtools.ksp:com.google.devtools.ksp.gradle.plugin", version.ref = "ksp" }
+plugin-hilt = { module = "com.google.dagger.hilt.android:com.google.dagger.hilt.android.gradle.plugin", version.ref = "hilt" }
+plugin-kotlin-serialization = { module = "org.jetbrains.kotlin.plugin.serialization:org.jetbrains.kotlin.plugin.serialization.gradle.plugin", version.ref = "kotlin" }
 
-ksp = { id = "com.google.devtools.ksp", version.ref = "ksp" }
-hilt = { id = "com.google.dagger.hilt.android", version.ref = "hilt" }
-kotlin-serialization = { id = "org.jetbrains.kotlin.plugin.serialization", version.ref = "kotlin" }
-android-library = { id = "com.android.library", version.ref = "agp" }
-jetbrains-kotlin-jvm = { id = "org.jetbrains.kotlin.jvm", version.ref = "jetbrainsKotlinJvm" }
+[plugins]
+custom-android-application = { id = "custom-android-application" }
+custom-android-library = { id = "custom-android-library" }
+custom-android-library-compose = { id = "custom-android-library-compose" }
+custom-kotlin-library = { id = "custom-kotlin-library" }
+
+
+
 

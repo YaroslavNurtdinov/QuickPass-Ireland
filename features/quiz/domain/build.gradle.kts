@@ -3,5 +3,5 @@ plugins {
 }
 
 dependencies {
-    implementation(projects.features.home.dataApi)
+    implementation(projects.features.quiz.dataApi)
 }

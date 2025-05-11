@@ -25,6 +25,7 @@ import androidx.navigation.navigation
 import com.nurtdinov.presentation.route.DriverGraph
 import com.nurtdinov.presentation.DriverHomeScreen
 import com.nurtdinov.presentation.HomeScreen
+import com.nurtdinov.presentation.QuizScreen
 import com.nurtdinov.presentation.route.TheoryGraph
 import com.nurtdinov.presentation.components.HomeTabs
 import com.nurtdinov.presentation.route.ListGraph
@@ -101,7 +102,7 @@ fun NavApp() {
             }
             navigation<TheoryGraph>(startDestination = TheoryGraph.TheoryHomeRoute) {
                 composable<TheoryGraph.TheoryHomeRoute> { HomeScreen(navController) }
-                composable<TheoryGraph.QuizRoute> {}
+                composable<TheoryGraph.QuizRoute> { QuizScreen() }
                 composable<TheoryGraph.HistoryRoute> {}
                 composable<TheoryGraph.SettingsRoute> { SettingsScreen() }
             }

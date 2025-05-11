@@ -1,53 +1,24 @@
 plugins {
-    alias(libs.plugins.android.application)
-    alias(libs.plugins.kotlin.android)
-    alias(libs.plugins.kotlin.compose)
-    alias(libs.plugins.hilt)
-    alias(libs.plugins.kotlin.serialization)
-    alias(libs.plugins.ksp)
-
+    alias(libs.plugins.custom.android.application)
 }
 
 android {
     namespace = "com.nurtdinov.quickpassireland"
-    compileSdk = 35
-
     defaultConfig {
         applicationId = "com.nurtdinov.quickpassireland"
-        minSdk = 26
-        targetSdk = 35
         versionCode = 1
         versionName = "1.0"
-
-        testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
-    }
-
-    buildTypes {
-        release {
-            isMinifyEnabled = false
-            proguardFiles(
-                getDefaultProguardFile("proguard-android-optimize.txt"),
-                "proguard-rules.pro"
-            )
-        }
-    }
-    compileOptions {
-        sourceCompatibility = JavaVersion.VERSION_11
-        targetCompatibility = JavaVersion.VERSION_11
-    }
-    kotlinOptions {
-        jvmTarget = "11"
-    }
-    buildFeatures {
-        compose = true
     }
 }
 
 dependencies {
-    implementation(project(":data"))
-    implementation(project(":features:home:data-api"))
-    implementation(project(":features:home:domain"))
-    implementation(project(":features:home:presentation"))
+    implementation(projects.data)
+    implementation(projects.features.home.dataApi)
+    implementation(projects.features.home.domain)
+    implementation(projects.features.home.presentation)
+    implementation(projects.features.quiz.dataApi)
+    implementation(projects.features.quiz.domain)
+    implementation(projects.features.quiz.presentation)
 
     implementation(libs.hilt)
     ksp(libs.hilt.compiler)

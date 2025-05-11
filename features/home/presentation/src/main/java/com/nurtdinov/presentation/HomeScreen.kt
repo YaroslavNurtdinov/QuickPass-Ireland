@@ -62,7 +62,6 @@ fun HomeContent(
                 containerColor = MaterialTheme.colorScheme.primaryContainer,
                 contentColor = MaterialTheme.colorScheme.onPrimaryContainer
             )
-
         ) {
             Box(modifier = Modifier.fillMaxSize()) {
                 Column(
