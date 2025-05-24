@@ -19,6 +19,10 @@ dependencies {
     implementation(projects.features.quiz.dataApi)
     implementation(projects.features.quiz.domain)
     implementation(projects.features.quiz.presentation)
+    implementation(projects.core.resources)
+    implementation(projects.features.roadSigns.presentation)
+    implementation(projects.features.roadSigns.domain)
+    implementation(projects.features.roadSigns.dataApi)
 
     implementation(libs.hilt)
     ksp(libs.hilt.compiler)

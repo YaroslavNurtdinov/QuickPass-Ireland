@@ -24,13 +24,19 @@ val HomeOptions = persistentListOf(
         text = "Road signs",
         painter = R.drawable.road_sign,
         description = false,
-        route = TheoryGraph.SettingsRoute,
+        route = ListGraph.SignsListRoute,
     ),
     HomeOption(
         text = "Questions",
         painter = R.drawable.list,
         description = false,
         route = ListGraph.QuestionsListRoute,
+    ),
+    HomeOption(
+        text = "Favorites",
+        painter = R.drawable.favorites_rate_24,
+        description = false,
+        route = TheoryGraph.FavoritesRoute,
     ),
     HomeOption(
         text = "Launch Mock Test",

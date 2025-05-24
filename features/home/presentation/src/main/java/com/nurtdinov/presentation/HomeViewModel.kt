@@ -9,6 +9,7 @@ import kotlinx.coroutines.flow.SharingStarted
 import kotlinx.coroutines.flow.StateFlow
 import kotlinx.coroutines.flow.map
 import kotlinx.coroutines.flow.stateIn
+import kotlinx.coroutines.launch
 import javax.inject.Inject
 
 
@@ -17,15 +18,23 @@ class HomeViewModel @Inject constructor(
     private val homeUseCases: HomeUseCases
 ) : ViewModel() {
 
+    init {
+        insertDriverTheoryData()
+    }
 
-    val stateFlow: StateFlow<HomeStateScreen> = homeUseCases.getAllUseCase.getAll()
+/*    val stateFlow: StateFlow<HomeStateScreen> = homeUseCases.getAllUseCase.getAll()
         .map { HomeStateScreen.Success(it) }
         .stateIn(
             scope = viewModelScope,
             started = SharingStarted.Lazily,
             initialValue = HomeStateScreen.Loading,
-        )
+        )*/
 
+    fun insertDriverTheoryData() {
+        viewModelScope.launch {
+            homeUseCases.insertDriverTheoryData.insertDriverTheoryData()
+        }
+    }
 
     sealed class HomeStateScreen() {
         data object Loading : HomeStateScreen()

@@ -5,5 +5,7 @@ import kotlinx.coroutines.flow.Flow
 
 interface HomeRepository {
 
-    fun getAll(): Flow<List<DriverTheoryDTO>>
+
+    suspend fun insertDriverTheoryData()
+
 }

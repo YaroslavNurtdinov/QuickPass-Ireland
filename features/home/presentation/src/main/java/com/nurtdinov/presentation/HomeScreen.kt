@@ -29,7 +29,7 @@ import kotlinx.collections.immutable.ImmutableList
 fun HomeScreen(navController: NavController) {
 
     val viewModel: HomeViewModel = hiltViewModel()
-    val state = viewModel.stateFlow.collectAsState().value
+    /*val state = viewModel.stateFlow.collectAsState().value*/
     HomeContent(
         homeOptions = HomeOptions,
         onNavClick = { route ->

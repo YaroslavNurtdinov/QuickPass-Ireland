@@ -14,6 +14,9 @@ data object TheoryGraph {
     data object QuizRoute
 
     @Serializable
+    data object FavoritesRoute
+
+    @Serializable
     data object HistoryRoute
 
     @Serializable
@@ -27,6 +30,11 @@ data object ListGraph {
 
     @Serializable
     data object SignsListRoute
+
+    @Serializable
+    data class SignsDetailsRoute(
+        val id: Int,
+    )
 }
 
 @Serializable

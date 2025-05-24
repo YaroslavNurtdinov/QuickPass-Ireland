@@ -22,14 +22,17 @@ import androidx.navigation.compose.composable
 import androidx.navigation.compose.currentBackStackEntryAsState
 import androidx.navigation.compose.rememberNavController
 import androidx.navigation.navigation
+import androidx.navigation.toRoute
 import com.nurtdinov.presentation.route.DriverGraph
 import com.nurtdinov.presentation.DriverHomeScreen
 import com.nurtdinov.presentation.HomeScreen
 import com.nurtdinov.presentation.QuizScreen
+import com.nurtdinov.presentation.screens.road_signs.RoadSignsScreen
 import com.nurtdinov.presentation.route.TheoryGraph
 import com.nurtdinov.presentation.components.HomeTabs
 import com.nurtdinov.presentation.route.ListGraph
 import com.nurtdinov.presentation.route.ProfileGraph
+import com.nurtdinov.presentation.screens.sign_details.SignDetailsScreen
 import com.nurtdinov.quickpassireland.navigation.routeClass
 import com.nurtdinov.quickpassireland.ui.components.AppNavigationBar
 import com.nurtdinov.quickpassireland.components.AppTollBar
@@ -59,31 +62,38 @@ fun NavApp() {
         TheoryGraph.QuizRoute::class -> R.string.you_have_40_minutes
         TheoryGraph.HistoryRoute::class -> R.string.progress_history
         TheoryGraph.SettingsRoute::class -> R.string.settings
+        ListGraph.SignsListRoute::class -> R.string.road_signs
         else -> R.string.app_name
     }
     Scaffold(
         modifier = Modifier.background(color = MaterialTheme.colorScheme.background),
         topBar = {
-            AppTollBar(
-                titleRes = titleRes,
-                navigateUpAction = if (navController.previousBackStackEntry == null) {
-                    NavigateUpAction.Profile(
-                        onClick = { navController.navigate(ProfileGraph.ProfileRoute) }
-                    )
-                } else {
-                    NavigateUpAction.Back(
-                        onClick = { navController.navigateUp() }
-                    )
-                }, onActionClick = {
-                    navController.navigate(TheoryGraph.SettingsRoute)
-                }
-            )
+            if (navController.previousBackStackEntry == null) {
+                AppTollBar(
+                    titleRes = titleRes,
+                    navigateUpAction = if (navController.previousBackStackEntry == null) {
+                        NavigateUpAction.Profile(
+                            onClick = { navController.navigate(ProfileGraph.ProfileRoute) }
+                        )
+                    } else {
+                        NavigateUpAction.Back(
+                            onClick = { navController.navigateUp() }
+                        )
+                    }, onActionClick = {
+                        navController.navigate(TheoryGraph.SettingsRoute)
+                    }
+                )
+            }
+
         },
         bottomBar = {
-            AppNavigationBar(
-                navController = navController,
-                tabs = HomeTabs
-            )
+            if (navController.previousBackStackEntry == null) {
+                AppNavigationBar(
+                    navController = navController,
+                    tabs = HomeTabs
+                )
+            }
+
         }
     ) { paddingValue ->
 
@@ -103,6 +113,7 @@ fun NavApp() {
             navigation<TheoryGraph>(startDestination = TheoryGraph.TheoryHomeRoute) {
                 composable<TheoryGraph.TheoryHomeRoute> { HomeScreen(navController) }
                 composable<TheoryGraph.QuizRoute> { QuizScreen() }
+                composable<TheoryGraph.FavoritesRoute> {  }
                 composable<TheoryGraph.HistoryRoute> {}
                 composable<TheoryGraph.SettingsRoute> { SettingsScreen() }
             }
@@ -112,7 +123,22 @@ fun NavApp() {
             }
             navigation<ListGraph>(startDestination = ListGraph.QuestionsListRoute) {
                 composable<ListGraph.QuestionsListRoute> { }
-                composable<ListGraph.SignsListRoute> { }
+                composable<ListGraph.SignsListRoute> {
+                    RoadSignsScreen(
+                        onNavBackClick = { navController.navigateUp() },
+                        onItemClick = { id ->
+                            navController.navigate(ListGraph.SignsDetailsRoute(id))
+                        }
+                    )
+                }
+                composable<ListGraph.SignsDetailsRoute> { entry ->
+                    val route: ListGraph.SignsDetailsRoute = entry.toRoute()
+                    SignDetailsScreen(
+                        id = route.id,
+                        onNavBackClick = {
+                            navController.navigateUp()
+                        })
+                }
             }
         }
     }

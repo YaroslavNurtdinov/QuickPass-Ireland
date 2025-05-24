@@ -9,7 +9,7 @@ import kotlinx.coroutines.flow.map
 class GetAllUseCase(
     private val homeRepository: HomeRepository
 ) {
-    fun getAll(): Flow<List<DriverTheoryModel>> {
+/*    fun getAll(): Flow<List<DriverTheoryModel>> {
         return homeRepository.getAll().map { it.map { it.toDriverTheoryModel() } }
-    }
+    }*/
 }

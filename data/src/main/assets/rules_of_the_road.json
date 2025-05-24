@@ -1,0 +1,3333 @@
+[
+{
+  "id": 0,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this sign mean?",
+  "image": "regulatory_sign_53_0_tram_lane_on_left",
+  "answers": [
+    "Bus and tram lane on left.",
+    "No parking inside the white line.",
+    "Trams emerging from left.",
+    "Tram lane on left."
+  ],
+  "correctAnswer": "Tram lane on left.",
+  "explanation": "This sign tells you there is a tram lane on the left. Be aware that there might be pedestrians in the area and crossing the road."
+},
+{
+  "id": 1,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this sign mean?",
+  "image": "warning_sign_27_1_overhead_electric_cables",
+  "answers": [
+    "Radio transmission mast ahead.",
+    "Sharp corners ahead.",
+    "Crosswinds ahead.",
+    "Overhead electric cables."
+  ],
+  "correctAnswer": "Overhead electric cables.",
+  "explanation": "This sign gives advance warning of electric cables overhead. Drivers with a high load should be particularly careful."
+},
+{
+  "id": 2,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "Who can use a signed cycle track accompanied by a continuous white line on the left-hand side?",
+  "image": "",
+  "answers": [
+    "Cyclists and users of motorised wheelchairs.",
+    "Drivers, when it is not being used by a cyclist.",
+    "Cyclists and motorcyclists.",
+    "Drivers when overtaking a vehicle turning right."
+  ],
+  "correctAnswer": "Cyclists and users of motorised wheelchairs.",
+  "explanation": "A cycle track is for the use of cyclists and motorised wheelchairs only. No other vehicles may cross into or over a mandatory cycle track unless this is necessary in order to leave or enter a side road or a property adjacent to the cycle track."
+},
+{
+  "id": 3,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What lights indicate a zebra crossing?",
+  "image": "",
+  "answers": [
+    "Flashing red beacons.",
+    "Flashing amber beacons.",
+    "Continuously lit amber beacons.",
+    "Continuously lit red beacons."
+  ],
+  "correctAnswer": "Flashing amber beacons.",
+  "explanation": "A zebra crossing is indicated by amber flashing beacons on poles and black and white stripes on the road. You must stop for pedestrians on the crossing and for those about to cross."
+},
+{
+  "id": 4,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What do temporary traffic lights at road works mean?",
+  "image": "",
+  "answers": [
+    "A driver need not comply if a convoy of traffic is going in the same direction.",
+    "A driver need only comply when there is oncoming traffic.",
+    "A driver must comply with the lights at all times.",
+    "A driver must comply with the lights when workers are on site only."
+  ],
+  "correctAnswer": "A driver must comply with the lights at all times.",
+  "explanation": "You must comply with any temporary traffic lights used to control vehicle movements at or near road works. It is an offence not to obey these lights."
+},
+{
+  "id": 5,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What do these signs together mean?",
+  "image": "regulatory_sign_41_5_pedestrianised_street_ahead",
+  "answers": [
+    "Access for buses and taxis only during times shown.",
+    "Pedestrianised street ahead - traffic not allowed except during times shown.",
+    "Clearway ahead - no stopping or parking during times shown.",
+    "Parking not allowed during times shown."
+  ],
+  "correctAnswer": "Pedestrianised street ahead - traffic not allowed except during times shown.",
+  "explanation": "When posted together these signs tells you that there is a pedestrianised street ahead and that traffic is not allowed to enter except during the times stated on the information plate."
+},
+{
+  "id": 6,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this sign mean?",
+  "image": "regulatory_sign_42_6_maximum_permitted_weight_is_3_tonnes",
+  "answers": [
+    "Maximum permitted weight is 3 tonnes.",
+    "Minimum permitted weight is 3 tonnes.",
+    "3-axled vehicles are not permitted.",
+    "Only 4-axled vehicles are permitted."
+  ],
+  "correctAnswer": "Maximum permitted weight is 3 tonnes.",
+  "explanation": "This sign tells you that you must not enter this area if your vehicle is over 3 tonnes or 3,000 kg."
+},
+{
+  "id": 7,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this sign mean?",
+  "image": "regulatory_sign_43_7_parking_of_vehicles_exceeding_the_weight_shown_is_not_allowed",
+  "answers": [
+    "Passing other traffic that exceeds the weight shown is not allowed.",
+    "Parking in loading area is not allowed.",
+    "Parking of vehicles under the weight shown is not allowed.",
+    "Parking of vehicles exceeding the weight shown is not allowed."
+  ],
+  "correctAnswer": "Parking of vehicles exceeding the weight shown is not allowed.",
+  "explanation": "This sign tells you that you must not park in this area if your vehicle is over the weight limit indicated."
+},
+{
+  "id": 8,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this sign mean?",
+  "image": "regulatory_sign_44_8_no_overtaking",
+  "answers": [
+    "No overtaking.",
+    "End of dual carriageway.",
+    "No stopping/parking on the right.",
+    "Double parking not allowed."
+  ],
+  "correctAnswer": "No overtaking.",
+  "explanation": "This sign tells you that overtaking is prohibited. These signs are usually found in places where overtaking may be dangerous, such as in areas with reduced visibility."
+},
+{
+  "id": 9,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this sign mean?",
+  "image": "regulatory_sign_45_9_only_buses_cyclists_and_taxis_are_allowed_to_use_the_lane_ahead_during_the_hours_indicated",
+  "answers": [
+    "Only buses, cyclists and taxis are allowed to use the lane outside the hours indicated.",
+    "Only buses, cyclists and taxis are allowed to use the lane ahead during the hours indicated.",
+    "Only buses and cyclists may park during the times indicated.",
+    "Only cyclists and buses are allowed to use the lane during the times indicated."
+  ],
+  "correctAnswer": "Only buses, cyclists and taxis are allowed to use the lane ahead during the hours indicated.",
+  "explanation": "This sign tells you there is a with-flow nearside bus lane ahead on the left – that is, one where the buses move in the same direction as the traffic to their right. The information plate tells the times when the bus lane is in operation. Only buses, taxis and cyclists may use the bus lane during those hours."
+},
+{
+  "id": 10,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this sign mean?",
+  "image": "regulatory_sign_46_10_with_flow_bus_and_cycle_lane_ahead_on_left",
+  "answers": [
+    "Only double-decker buses and cyclists may use lane.",
+    "Only buses and cyclists may park.",
+    "With-flow bus and cycle lane ahead on left.",
+    "Cyclists and buses must turn left."
+  ],
+  "correctAnswer": "With-flow bus and cycle lane ahead on left.",
+  "explanation": "This sign tells you there is a with-flow nearside bus lane ahead to the left. Only buses, taxis and cyclists may use the bus lane during the stated operational hours."
+},
+{
+  "id": 11,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this sign mean?",
+  "image": "regulatory_sign_48_11_bus_and_cycle_lane_ahead_on_right",
+  "answers": [
+    "Bus and cycle lane ahead on right.",
+    "Buses must give way to cyclists ahead.",
+    "Cyclists must give way to buses ahead.",
+    "Buses must give way to other traffic ahead."
+  ],
+  "correctAnswer": "Bus and cycle lane ahead on right.",
+  "explanation": "This sign tells you that there is an offside bus lane ahead on the right. Only buses, taxis and cyclists may use the bus lane during the stated operational hours."
+},
+{
+  "id": 12,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this sign mean?",
+  "image": "regulatory_sign_49_12_with_flow_bus_lane_on_the_right",
+  "answers": [
+    "Contra-flow bus lane ahead.",
+    "Buses may block the driver’s view of cyclists.",
+    "With-flow bus lane on the left.",
+    "With-flow bus lane on the right."
+  ],
+  "correctAnswer": "With-flow bus lane on the right.",
+  "explanation": "This sign indicates a with-flow offside bus lane on the right. Only buses, taxis and cyclists may use the bus lane during the stated operational hours."
+},
+{
+  "id": 13,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this sign mean?",
+  "image": "regulatory_sign_51_13_contra_flow_bus_lane_on_the_right",
+  "answers": [
+    "Buses emerging from right.",
+    "Cycle track may be crossed by buses.",
+    "With-flow bus lane to right.",
+    "Contra-flow bus lane on the right."
+  ],
+  "correctAnswer": "Contra-flow bus lane on the right.",
+  "explanation": "This sign tells you that you must drive on the left and not use the contra-flow bus lane day or night. A contraflow bus lane is one where the buses are going in the opposite direction."
+},
+{
+  "id": 14,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this sign mean?",
+  "image": "regulatory_sign_50_14_contra_flow_bus_lane",
+  "answers": [
+    "Two-way traffic system.",
+    "Contra-flow bus lane.",
+    "Double-decker buses only.",
+    "With-flow bus lane."
+  ],
+  "correctAnswer": "Contra-flow bus lane.",
+  "explanation": "This sign tells you that you must drive on the left and not use the contra-flow bus lane day or night. A contra-flow bus lane is one where the buses are going in the opposite direction."
+},
+{
+  "id": 15,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this sign mean?",
+  "image": "regulatory_sign_52_15_tram_lane_on_right",
+  "answers": [
+    "With-flow bus lane ahead.",
+    "Tram lane on left.",
+    "Parking only inside the white line.",
+    "Tram lane on right."
+  ],
+  "correctAnswer": "Tram lane on right.",
+  "explanation": "This sign tells you there is an offside tram lane on the right. Drivers should also be aware that there might be pedestrians in the area."
+},
+{
+  "id": 16,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this sign mean?",
+  "image": "warning_sign_2_16_y_junction_where_main_road_bears_to_the_left",
+  "answers": [
+    "Y-junction where main road bears to the left.",
+    "Y-junction where vehicles must go left.",
+    "Y-junction where main road bears to the right.",
+    "Y-junction where heavy vehicles must go left."
+  ],
+  "correctAnswer": "Y-junction where main road bears to the left.",
+  "explanation": "This sign gives advance warning of a Y-junction with a minor road ahead. The wider arm of the Y indicates the course of the main road."
+},
+{
+  "id": 17,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this sign mean?",
+  "image": "warning_sign_6_17_y_junction_ahead_with_roads_of_equal_importance",
+  "answers": [
+    "Start of dual carriageway.",
+    "Y-junction ahead with roads of equal importance.",
+    "Minor road ahead.",
+    "T-junction ahead with major road."
+  ],
+  "correctAnswer": "Y-junction ahead with roads of equal importance.",
+  "explanation": "This sign gives advance warning of a Y-junction ahead with roads of equal importance. Approach such a junction with caution and be prepared to react to any changes in the traffic situation."
+},
+{
+  "id": 18,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this sign mean?",
+  "image": "warning_sign_7_18_crossroads_with_major_road_ahead",
+  "answers": [
+    "Crossroads with dual carriageway ahead.",
+    "T-junction ahead with roads of major importance.",
+    "Road passing under a bridge ahead.",
+    "Crossroads with major road ahead."
+  ],
+  "correctAnswer": "Crossroads with major road ahead.",
+  "explanation": "This sign gives advance warning of a crossroads junction with a major road ahead. Be prepared to stop."
+},
+{
+  "id": 19,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this sign mean?",
+  "image": "warning_sign_8_19_t_junction_ahead_with_road_of_major_importance",
+  "answers": [
+    "Cul-de-sac to the right.",
+    "T-junction ahead with a road of major importance.",
+    "Cul-de-sac to the left and right.",
+    "T-junction ahead with a road of minor importance."
+  ],
+  "correctAnswer": "T-junction ahead with a road of major importance.",
+  "explanation": "This sign gives advance warning of a T-junction ahead with a major road. Be prepared to yield or stop as necessary."
+},
+{
+  "id": 20,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this sign mean?",
+  "image": "warning_sign_9_20_crossroads_with_dual_carriageway_ahead",
+  "answers": [
+    "Crossroads with dual carriageway ahead.",
+    "Level crossing ahead guarded by gates.",
+    "Unguarded level crossing ahead.",
+    "T-junction with crossroads ahead."
+  ],
+  "correctAnswer": "Crossroads with dual carriageway ahead.",
+  "explanation": "This sign gives advance warning of a crossroads junction at a dual carriageway ahead. Drivers need to be observant, taking extra care for traffic coming from each direction. Yield and/or stop as appropriate."
+},
+{
+  "id": 21,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this sign mean?",
+  "image": "warning_sign_10_21_t_junction_with_dual_carriageway_ahead",
+  "answers": [
+    "Unguarded level crossing ahead.",
+    "Guarded level crossing ahead.",
+    "Low bridge ahead.",
+    "T-junction with dual carriageway ahead."
+  ],
+  "correctAnswer": "T-junction with dual carriageway ahead.",
+  "explanation": "This sign gives advance warning of a T-junction at a dual carriageway ahead. Drivers need to be observant, taking extra care for traffic coming from each direction. Yield and/or stop as appropriate."
+},
+{
+  "id": 22,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this sign mean?",
+  "image": "warning_sign_11_22_traffic_merging_from_the_left",
+  "answers": [
+    "Traffic merging from the right.",
+    "Traffic merging from the left.",
+    "End of dual carriageway ahead.",
+    "Traffic from the right has priority."
+  ],
+  "correctAnswer": "Traffic merging from the left.",
+  "explanation": "This sign gives advance warning of traffic merging from the left. You should expect vehicles to join from the left. You may need to slow down, allowing them to merge safely."
+},
+{
+  "id": 23,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this sign mean?",
+  "image": "warning_sign_12_23_traffic_merging_diverging_ahead",
+  "answers": [
+    "Road narrows briefly ahead.",
+    "Diversion at junction ahead.",
+    "Traffic merging/diverging ahead.",
+    "Yield to merging/diverging traffic ahead."
+  ],
+  "correctAnswer": "Traffic merging/diverging ahead.",
+  "explanation": "This sign gives advance warning of roads both merging (entering onto the main road) and diverging (exiting the main road). Drivers should be prepared for traffic changing speed and direction as vehicles enter or exit at the junctions on the left ahead."
+},
+{
+  "id": 24,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this sign mean?",
+  "image": "warning_sign_14_24_dangerous_corner_ahead",
+  "answers": [
+      "One-way street ahead.",
+      "Dangerous bend ahead.",
+      "Junction to the left.",
+      "Dangerous corner ahead."
+  ],
+  "correctAnswer": "Dangerous corner ahead.",
+  "explanation": "This sign gives advance warning of a dangerous corner to the left. You may need to slow down and react to any changes in the traffic situation ahead."
+},
+{
+  "id": 25,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this sign mean?",
+  "image": "warning_sign_18_25_sharp_change_of_direction_to_the_right",
+  "answers": [
+    "Series of speed ramps ahead.",
+    "Road closed - drivers must turn back.",
+    "Sharp change of direction to the left.",
+    "Sharp change of direction to the right."
+  ],
+  "correctAnswer": "Sharp change of direction to the right.",
+  "explanation": "This sign gives advance warning of a sharp change of direction to the right. You should slow down as you approach the hazard."
+},
+{
+  "id": 26,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this sign mean?",
+  "image": "warning_sign_19_26_road_narrows_on_the_left",
+  "answers": [
+    "Road narrows on the left.",
+    "The driver must overtake on the right only.",
+    "Merging traffic from the left.",
+    "End of dual carriageway."
+  ],
+  "correctAnswer": "Road narrows on the left.",
+  "explanation": "This sign gives advance warning that the road narrows on the left ahead. You should show caution and prepare to adjust your road position."
+},
+{
+  "id": 27,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this sign mean?",
+  "image": "warning_sign_21_27_road_divides_ahead",
+  "answers": [
+    "Tramline ahead.",
+    "Railway tunnel ahead.",
+    "Road divides ahead.",
+    "Overtake only on the left ahead."
+  ],
+  "correctAnswer": "Road divides ahead.",
+  "explanation": "This sign gives advance warning that the road divides ahead. You should prepare to move to the left."
+},
+{
+  "id": 28,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this sign mean?",
+  "image": "warning_sign_24_28_steep_descent_ahead",
+  "answers": [
+    "Steep ascent ahead.",
+    "Steep descent ahead.",
+    "Uneven road surface ahead.",
+    "Slippery road ahead."
+  ],
+  "correctAnswer": "Steep descent ahead.",
+  "explanation": "This sign gives advance warning of a steep descent/downward slope ahead. You should react accordingly by adjusting speed and selecting the appropriate gear."
+},
+{
+  "id": 29,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this sign mean?",
+  "image": "warning_sign_26_29_low_bridge_up_ahead",
+  "answers": [
+    "Restricted road width ahead.",
+    "Low bridge up ahead.",
+    "Restricted weight limit for road segment indicated.",
+    "Road narrows ahead - maximum length of vehicle is indicated."
+  ],
+  "correctAnswer": "Low bridge up ahead.",
+  "explanation": "This sign gives advance warning that you are approaching a low bridge, with restricted headroom as shown on the sign."
+},
+{
+  "id": 30,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this sign mean?",
+  "image": "warning_sign_30_30_level_crossing_ahead_protected_by_lights_and_barriers",
+  "answers": [
+    "Railway bridge ahead.",
+    "Railway station ahead.",
+    "Level crossing ahead unprotected by lights and barriers.",
+    "Level crossing ahead protected by lights and barriers."
+  ],
+  "correctAnswer": "Level crossing ahead protected by lights and barriers.",
+  "explanation": "This sign gives advance warning of a railway level crossing ahead protected by lights and barriers. The crossing may also have an audible warning alarm. You should be prepared to stop."
+},
+{
+  "id": 31,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this sign mean?",
+  "image": "warning_sign_34_31_sharp_depression_or_dip_ahead",
+  "answers": [
+    "Sharp depression or dip ahead.",
+    "Road flooded ahead.",
+    "Road divides ahead - pass on the left or right.",
+    "Road damaged ahead."
+  ],
+  "correctAnswer": "Sharp depression or dip ahead.",
+  "explanation": "This sign gives advance warning of a dip or depression in the road ahead which may be hidden and could obscure your view of oncoming traffic. You should reduce your speed accordingly and be aware that overtaking is dangerous in these areas."
+},
+{
+  "id": 32,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this sign mean?",
+  "image": "warning_sign_35_32_series_of_bumps_or_hollows_ahead",
+  "answers": [
+      "Road works ahead.",
+      "Series of rumble strips ahead.",
+      "Steep hills ahead.",
+      "Series of bumps or hollows ahead."
+  ],
+  "correctAnswer": "Series of bumps or hollows ahead.",
+  "explanation": "This sign gives advance warning of a series of bumps or hollows ahead. Be prepared to reduce your speed as necessary."
+},
+{
+  "id": 33,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this sign mean?",
+  "image": "warning_sign_35_33_slippery_road_ahead",
+  "answers": [
+    "Road narrows from right.",
+    "Slippery road ahead.",
+    "Steep hill ahead.",
+    "Series of bends ahead."
+  ],
+  "correctAnswer": "Slippery road ahead.",
+  "explanation": "This sign gives advance warning of the potential danger of slippery road surfaces ahead."
+},
+{
+  "id": 34,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this sign mean?",
+  "image": "warning_sign_37_34_traffic_signals_ahead",
+  "answers": [
+    "Railway level crossing ahead.",
+    "Traffic signals ahead.",
+    "School children crossing ahead.",
+    "Stop at zebra crossing."
+  ],
+  "correctAnswer": "Traffic signals ahead.",
+  "explanation": "This sign gives advance warning of a traffic light controlled junction ahead. This sign is generally found in areas where the lights may not be visible to drivers in good time – for example, following a bend in the road."
+},
+{
+  "id": 35,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this sign mean?",
+  "image": "warning_sign_38_35_school_ahead",
+  "answers": [
+    "School ahead.",
+    "Pedestrian crossing ahead.",
+    "Picnic area ahead.",
+    "Children’s play area ahead."
+  ],
+  "correctAnswer": "School ahead.",
+  "explanation": "This sign gives advance warning of a school ahead. You should adjust your speed and react accordingly as there may be children in the area."
+},
+{
+  "id": 36,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this sign mean?",
+  "image": "warning_sign_45_36_crosswinds_ahead",
+  "answers": [
+    "Crosswinds ahead.",
+    "Airport ahead.",
+    "Falling rocks ahead.",
+    "Golf course ahead."
+  ],
+  "correctAnswer": "Crosswinds ahead.",
+  "explanation": "This sign gives advance warning that there may be crosswinds ahead. Crosswinds can affect the stability of your vehicle on the road. Be prepared to slow down if necessary."
+},
+{
+"id": 37,
+"category": "Legal Matters/Rules of the Road",
+"question": "What does this sign mean?",
+"image": "motorway_sign_2_37_ends_500_metres_ahead",
+"answers": [
+  "Bridge repair 500 metres ahead.",
+  "Low bridge 500 metres ahead.",
+  "No overtaking for 500 metres.",
+  "Motorway ends 500 metres ahead."
+],
+"correctAnswer": "Motorway ends 500 metres ahead.",
+"explanation": "This is a motorway information sign that tells you that the motorway will end in 500 metres ahead. Motorway rules will no longer apply, for example a lower speed limit may be applicable."
+},
+{
+  "id": 38,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this sign mean?",
+  "image": "motorway_sign_3_38_end_of_motorway",
+  "answers": [
+    "No overtaking.",
+    "No bridges ahead.",
+    "End of overhead bridge area.",
+    "End of motorway."
+  ],
+  "correctAnswer": "End of motorway.",
+  "explanation": "This sign indicates the end of the motorway. You are leaving the motorway and its rules will no longer apply."
+},
+{
+  "id": 39,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this sign mean?",
+  "image": "worker_sign_5_39_road_narrows_from_right",
+  "answers": [
+    "Overtaking lane ends ahead.",
+    "Road narrows from right.",
+    "Right-hand lane has an uneven surface.",
+    "A driver may overtake on the left only."
+  ],
+  "correctAnswer": "Road narrows from right.",
+  "explanation": "Where there are roadworks up ahead, this warning sign tells you that the road narrows from the right creating a potential hazard."
+},
+{
+  "id": 40,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this sign mean?",
+  "image": "worker_sign_6_40_road_narrows_on_both_sides",
+  "answers": [
+      "End of dual carriageway ahead.",
+      "Traffic merging from both sides.",
+      "Road narrows on both sides.",
+      "End of obstruction between lanes."
+  ],
+  "correctAnswer": "Road narrows on both sides.",
+  "explanation": "This roadworks warning sign tells you that the road narrows on both sides creating a potential hazard. Be prepared to slow down and drive with extra care."
+},{
+  "id": 41,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this sign mean?",
+  "image": "worker_sign_7_41_flagman_ahead",
+  "answers": [
+      "Football stadium ahead.",
+      "Flagman ahead.",
+      "Hitch-hiking permitted.",
+      "Pedestrian crossing to right."
+  ],
+  "correctAnswer": "Flagman ahead.",
+  "explanation": "This roadworks warning sign tells you that the traffic flow ahead is controlled manually by a flagman. Be aware and follow directions given by the flagman."
+},
+{
+  "id": 42,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this sign mean?",
+  "image": "worker_sign_9_42_two_way_traffic",
+  "answers": [
+    "Dual carriageway ahead.",
+    "One-way street.",
+    "Two-way traffic.",
+    "Traffic may not stop."
+  ],
+  "correctAnswer": "Two-way traffic.",
+  "explanation": "This warning sign tells you that during roadworks there will be two-way traffic in operation ahead. Continue to drive with extra care."
+},
+{
+  "id": 43,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this sign mean?",
+  "image": "worker_sign_10_43_nearside_lane_of_two_closed",
+  "answers": [
+    "Traffic in nearside lane must turn left.",
+    "Offside lane of two closed.",
+    "T-junction ahead in the left lane.",
+    "Nearside lane of two closed."
+  ],
+  "correctAnswer": "Nearside lane of two closed.",
+  "explanation": "This roadworks warning sign tells you that the nearside (left-hand) lane is closed ahead. If you are in this lane you will need to move to the offside (right-hand) lane when it is safe to do so."
+}
+,
+{
+  "id": 44,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this sign mean?",
+  "image": "worker_sign_12_44_offside_lane_closed_ahead",
+  "answers": [
+    "No stopping, except in offside lane.",
+    "Offside lane closed ahead.",
+    "Corner ahead on offside lane.",
+    "End of dual carriageway."
+  ],
+  "correctAnswer": "Offside lane closed ahead.",
+  "explanation": "This roadworks warning sign tells you that the offside (right-hand) lane of three is closed ahead. Drivers in the nearside or centre lanes should be aware that traffic may merge from the right."
+}
+,
+{
+  "id": 45,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this sign mean?",
+  "image": "worker_sign_19_45_traffic_should_cross_back_to_the_left_hand_lane_ahead",
+  "answers": [
+    "Slow lane ahead for heavy traffic.",
+    "Bend in the road to the left ahead.",
+    "Traffic should cross back to the left-hand lane ahead.",
+    "Lay-by ahead."
+  ],
+  "correctAnswer": "Traffic should cross back to the left-hand lane ahead.",
+  "explanation": "This roadworks warning sign tells you that the course of the road will return to the left ahead. This usually appears after a stretch where traffic was diverted to a right-hand lane."
+}
+,
+{
+  "id": 46,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this sign mean?",
+  "image": "worker_sign_20_46_traffic_should_cross_out_to_the_right_hand_lane_ahead",
+  "answers": [
+    "Traffic should cross out to the right-hand lane ahead.",
+    "Bend in the road to the right ahead.",
+    "Traffic calming measures ahead.",
+    "End of “no overtaking” zone."
+  ],
+  "correctAnswer": "Traffic should cross out to the right-hand lane ahead.",
+  "explanation": "This roadworks warning sign tells you that the course of the road will divert to the right ahead."
+}
+,
+{
+  "id": 47,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this sign mean?",
+  "image": "worker_sign_22_47_end_of_central_reserve_or_obstruction",
+  "answers": [
+    "Beware of vehicle with a wide load.",
+    "Tunnel ends ahead.",
+    "Dual carriageway ends ahead.",
+    "End of central reserve or obstruction."
+  ],
+  "correctAnswer": "End of central reserve or obstruction.",
+  "explanation": "This roadworks warning sign tells you that traffic previously separated by the central reserve or an obstruction will revert to two-way traffic."
+}
+,
+{
+  "id": 48,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this hand signal mean?",
+  "image": "hand_signal_1_48_the_cyclist_intends_to_move_out_or_turn_right",
+  "answers": [
+    "The cyclist intends to move out or turn right.",
+    "The cyclist intends to slow down.",
+    "The cyclist intends to stop.",
+    "The cyclist intends to move in or turn left."
+  ],
+  "correctAnswer": "The cyclist intends to move out or turn right.",
+  "explanation": "This hand signal tells other road users that the cyclist intends to either move out or make a right-hand turn. Drivers should be aware that cyclists could move out into the path of their vehicle without looking."
+}
+,
+{
+  "id": 49,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this hand signal mean?",
+  "image": "hand_signal_2_49_the_cyclist_intends_to_slow_down_or_stop",
+  "answers": [
+    "The cyclist is signalling following traffic to overtake.",
+    "The cyclist intends to turn left.",
+    "The cyclist intends to move out.",
+    "The cyclist intends to slow down or stop."
+  ],
+  "correctAnswer": "The cyclist intends to slow down or stop.",
+  "explanation": "This hand signal informs other road users that cyclist intends to slow down or stop. This may indicate that the cyclist is aware of some hazard ahead, so drive with extra care."
+}
+,
+{
+  "id": 50,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this hand signal mean?",
+  "image": "hand_signal_12_50_the_driver_intends_to_proceed_straight_ahead",
+  "answers": [
+      "The driver intends to slow down or stop.",
+      "The driver intends to turn left.",
+      "The driver intends to reverse.",
+      "The driver intends to proceed straight ahead."
+  ],
+  "correctAnswer": "The driver intends to proceed straight ahead.",
+  "explanation": "This hand signal informs other road users or a Garda directing traffic that the driver intends to proceed straight ahead."
+}
+,
+{
+  "id": 51,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this traffic light mean?",
+  "image": "tl_51_traffic_turning_left_may_proceed_if_the_way_is_clear",
+  "answers": [
+    "Traffic turning left may proceed if the way is clear.",
+    "Traffic turning left should prepare for full green to move off.",
+    "All traffic must turn left only.",
+    "Traffic is not allowed to turn left."
+  ],
+  "correctAnswer": "Traffic turning left may proceed if the way is clear.",
+  "explanation": "A green arrow (filter light) means that traffic may proceed in the direction of the arrow if it is safe to do so."
+},
+{
+  "id": 52,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "When traffic lights are green, when should a driver not proceed?",
+  "image": "",
+  "answers": [
+    "When oncoming traffic is waiting to turn left.",
+    "When traffic is stopped waiting to turn from the road on the left.",
+    "When it would be unsafe to do so.",
+    "When traffic is stopped waiting to turn from the road on the right."
+  ],
+  "correctAnswer": "When it would be unsafe to do so.",
+  "explanation": "Although a green traffic light means proceed with caution, you should not enter a junction if the way is not clear or if by doing so you would cause an obstruction to other road users."
+},
+{
+  "id": 53,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "Where is a driver allowed to park?",
+  "image": "",
+  "answers": [
+    "Where there is a continuous white line along the centre of the road.",
+    "On a footpath.",
+    "Where the driver is not blocking other road users their view of traffic signals or the road ahead.",
+    "At road works."
+  ],
+  "correctAnswer": "Where the driver is not blocking other road users their view of traffic signals or the road ahead.",
+  "explanation": "It is an offence to park at the side of a road that has a single or double continuous white line along its centre. Parking on such a road could create an obstruction and may cause inconvenience or danger to other road users."
+},
+{
+  "id": 54,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What distance before a zebra crossing is parking prohibited?",
+  "image": "",
+  "answers": [
+    "15 metres.",
+    "10 metres.",
+    "5 metres.",
+    "20 metres."
+  ],
+  "correctAnswer": "15 metres.",
+  "explanation": "It is an offence to park 15 metres before or 5 metres after a pedestrian crossing. Parking in this manner may restrict the zone of vision of drivers approaching the crossing and endanger pedestrians."
+},
+{
+  "id": 55,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "Within what distance of a road junction is parking prohibited?",
+  "image": "",
+  "answers": [
+    "20 metres, unless parking spaces are clearly marked.",
+    "10 metres, unless parking spaces are clearly marked.",
+    "5 metres, unless parking spaces are clearly marked.",
+    "15 metres, unless parking spaces are clearly marked."
+  ],
+  "correctAnswer": "5 metres, unless parking spaces are clearly marked.",
+  "explanation": "It is an offence to park within 5 metres of a road junction unless parking spaces are clearly marked. Parking in that area may restrict the zone of vision of drivers approaching the junction and may cause an obstruction to large vehicles wishing to turn."
+},
+{
+  "id": 56,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "Is a driver permitted to park at an entrance to a property?",
+  "image": "",
+  "answers": [
+    "Yes, for 1 hour between 23:30 hrs to 07:00 hrs.",
+    "Yes, outside business hours.",
+    "Yes, for 1 hour between 07:00 hrs to 23:30 hrs.",
+    "Yes, with the property owner’s consent."
+  ],
+  "correctAnswer": "Yes, with the property owner’s consent.",
+  "explanation": "You may park across the entrance to a property only with the owner’s consent. Parking across an entrance may cause inconvenience and danger to persons entering or leaving the property."
+},
+{
+  "id": 57,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "When is parking permitted on a footpath?",
+  "image": "",
+  "answers": [
+    "When cars are parked on both sides of the road.",
+    "When at least half of the footpath remains free for pedestrians.",
+    "When no more than half of the vehicle is on the footpath.",
+    "It is never permitted to park on a footpath."
+  ],
+  "correctAnswer": "It is never permitted to park on a footpath.",
+  "explanation": "It is an offence to park on a footpath. Where a vehicle is parked on a footpath, pedestrians may have to step onto the road to go around the vehicle and so place themselves in danger."
+},
+{
+  "id": 58,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "When is double parking permitted?",
+  "image": "",
+  "answers": [
+    "When there are double yellow lines.",
+    "It is never permitted.",
+    "When there is a hard shoulder.",
+    "When there are double white lines."
+  ],
+  "correctAnswer": "It is never permitted.",
+  "explanation": "Double parking is never permitted. Parking is never permitted where it might interfere in any way with the normal flow of traffic or obstruct or endanger other road users."
+},
+{
+  "id": 59,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "When is parking permitted at a taxi rank?",
+  "image": "",
+  "answers": [
+    "When waiting to collect passengers from a taxi.",
+    "Parking at a taxi rank is prohibited unless driving a taxi.",
+    "When parking for less than 15 minutes.",
+    "When the rank is unoccupied."
+  ],
+  "correctAnswer": "Parking at a taxi rank is prohibited unless driving a taxi.",
+  "explanation": "Stopping or parking within an area marked as a taxi rank is prohibited as this may obstruct taxis entering or leaving the rank."
+}
+,
+{
+  "id": 60,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "When is parking permitted at a sharp bend?",
+  "image": "",
+  "answers": [
+    "Parking is never permitted at a sharp bend.",
+    "When the hazard warning lights of the parked vehicle are on.",
+    "When drivers coming from behind can see the parked vehicle.",
+    "When parking no more than 45 centimetres from the kerb or edge of the road."
+  ],
+  "correctAnswer": "Parking is never permitted at a sharp bend.",
+  "explanation": "Parking is never permitted where it might interfere in any way with the normal flow of traffic or obstruct or endanger other road users – for example, by forcing other drivers into the path of oncoming traffic."
+}
+,
+{
+  "id": 61,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "When is parking permitted on the brow of a hill?",
+  "image": "",
+  "answers": [
+      "When the driver angles the wheels towards the kerb.",
+      "Parking is permitted when a vehicle has an efficient handbrake.",
+      "Parking is never permitted on the brow of a hill.",
+      "Only when there is no traffic on the road."
+  ],
+  "correctAnswer": "Parking is never permitted on the brow of a hill.",
+  "explanation": "Parking on the brow of a hill or on a humpbacked bridge is prohibited. Parking in such a place may restrict the zone of vision of drivers approaching the hill and force them into the path of oncoming traffic."
+},
+{
+  "id": 62,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What is the purpose of traffic calming measures?",
+  "image": "",
+  "answers": [
+    "To slow down traffic in the vicinity.",
+    "To inform the driver of an increased speed limit ahead.",
+    "To alert drivers to road flooding ahead.",
+    "To prioritise heavy goods traffic."
+  ],
+  "correctAnswer": "To slow down traffic in the vicinity.",
+  "explanation": "The purpose of traffic calming measures is to slow down fast-moving traffic to a speed more suitable for the area they are entering. These measures are usually found in rural areas on the entry points to towns or villages."
+},
+{
+  "id": 63,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "When may a trailer be towed on a public road without a rear number plate?",
+  "image": "",
+  "answers": [
+    "When being towed by an agricultural tractor.",
+    "When carrying a load that overhangs the trailer.",
+    "Never, a number plate must always be displayed.",
+    "When the tailboard is removed."
+  ],
+  "correctAnswer": "Never, a number plate must always be displayed.",
+  "explanation": "The law requires all motorised vehicles to display a rear number plate that is clean and legible."
+},
+{
+  "id": 64,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What traffic may use a cycle lane accompanied by a continuous white line?",
+  "image": "",
+  "answers": [
+    "Cyclists and motorised wheelchairs.",
+    "Cyclists and taxis.",
+    "Buses and cyclists.",
+    "Cyclists and motorcyclists."
+  ],
+  "correctAnswer": "Cyclists and motorised wheelchairs.",
+  "explanation": "A cycle track is for the use of cyclists and motorised wheelchairs. No other vehicles may cross into or over a mandatory cycle track unless this is necessary in order to leave a side road or a property adjacent to the cycle track."
+},
+{
+  "id": 65,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "Apart from cyclists and motorised wheelchairs, what other road users may use an unoccupied cycle lane accompanied by a broken white line?",
+  "image": "",
+  "answers": [
+    "Only buses and taxis.",
+    "Only moped riders and motorcyclists.",
+    "Only hackneys and taxis.",
+    "All drivers may make temporary use."
+  ],
+  "correctAnswer": "All drivers may make temporary use.",
+  "explanation": "Drivers may make temporary use of a cycle track with a broken white line on the right-hand side if it is not occupied."
+},
+{
+  "id": 66,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "When must drivers stop at an automated railway level crossing with barriers and red flashing lights?",
+  "image": "",
+  "answers": [
+      "When there are no lights visible.",
+      "When the red and amber lights stop flashing.",
+      "When the barrier is fully up.",
+      "Stop safely when the amber light shows, or when red lights start to flash."
+    ],
+  "correctAnswer": "Stop safely when the amber light shows, or when red lights start to flash.",
+  "explanation": "You must stop safely when the amber light shows. Flashing red lights have the same meaning as a steady red traffic light - stop safely when they show."
+},
+{
+  "id": 67,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "At a railway level crossing with unattended gates, what should a car driver do?",
+  "image": "",
+  "answers": [
+    "Open both gates and after passing the first, stop and close it.",
+    "Telephone the nearest railway station before opening a gate.",
+    "Drive halfway across and close the first gate before opening the second.",
+    "Open both gates before proceeding to cross."
+  ],
+  "correctAnswer": "Open both gates before proceeding to cross.",
+  "explanation": "At a level crossing with unattended gates a driver must stop, look for trains and listen for the sound of a horn or approaching trains. If it is safe, open both gates, complete the crossing and then close both gates."
+},
+{
+  "id": 68,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What do flashing amber arrows indicate at a junction?",
+  "image": "",
+  "answers": [
+    "When safe, drivers should proceed in the direction indicated.",
+    "It is prohibited to proceed in the direction indicated.",
+    "The direction indicated is a cul-de-sac.",
+    "Proceed smartly through junction to avoid delay."
+  ],
+  "correctAnswer": "When safe, drivers should proceed in the direction indicated.",
+  "explanation": "When you meet a flashing amber arrow at a junction, you should proceed in the direction indicated provided it is safe to do so."
+},
+{
+  "id": 69,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "When do temporary speed limits apply at roadworks?",
+  "image": "",
+  "answers": [
+    "Only when there is oncoming traffic.",
+    "For the duration of the roadworks.",
+    "Only when road workers are on site.",
+    "During business hours only."
+  ],
+  "correctAnswer": "For the duration of the roadworks.",
+  "explanation": "Temporary speed limits at road works apply for the duration of the works. When road works are completed, normal speed limits apply."
+},
+{
+  "id": 70,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does a continuous white line along the centre of the road mean?",
+  "image": "i_70_no_u_turn_allowed",
+  "answers": [
+    "U-turn allowed during daylight hours.",
+    "Parking allowed during business hours.",
+    "Traffic can overtake.",
+    "No U-turn allowed."
+  ],
+  "correctAnswer": "No U-turn allowed.",
+  "explanation": "You must never do a U-turn on any stretch of road with a continuous white line along its centre. The restricted vision at such places would make doing a U-turn very unsafe."
+},
+{
+  "id": 71,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "When wanting to stop temporarily in a congested area where should the driver park?",
+  "image": "",
+  "answers": [
+    "Park slightly up on the footpath with the hazard lights on.",
+    "Double park in a convenient place with your hazard lights on.",
+    "Park in a safe, legal and convenient place.",
+    "Park on the footpath so as not to impede the free flow of traffic in the road."
+  ],
+  "correctAnswer": "Park in a safe, legal and convenient place.",
+  "explanation": "You should park only where it is safe, legal and convenient to do so. Your parked vehicle must not cause a danger or an obstruction to other road users. The use of hazard warning lights does not excuse unsafe or illegal parking."
+},
+{
+  "id": 72,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What is a clearway?",
+  "image": "",
+  "answers": [
+    "An area that is reserved for pedestrians and motorised wheelchairs.",
+    "An area that is strictly reserved for the loading and unloading of HGVs.",
+    "An area where stopping and parking is not permitted during certain times.",
+    "An area where stopping and parking is reserved for buses and taxis only."
+  ],
+  "correctAnswer": "An area where stopping and parking is not permitted during certain times.",
+  "explanation": "A clearway is an area of road that must be kept clear for moving traffic during certain times of the day (usually busy periods). The times when stopping or parking is prohibited are shown on an information plate under the sign."
+},
+{
+  "id": 73,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this sign mean when displayed on the approach to a toll plaza?",
+  "image": "motorway_sign_7_73_toll_collector_operating_lane",
+  "answers": [
+    "This lane closed - keep left.",
+    "Toll collector operating lane.",
+    "Service station ahead.",
+    "Garda checkpoint to the left."
+  ],
+  "correctAnswer": "Toll collector operating lane.",
+  "explanation": "This sign is used at toll plazas to direct traffic into a lane where the toll charge may be paid directly to a cashier. This lane would normally be used by motorists who have neither the exact change nor an electronic tag on their vehicle."
+},
+{
+  "id": 74,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this sign mean when displayed on the approach to a toll plaza?",
+  "image": "motorway_sign_8_74_coin_basket_in_this_lane",
+  "answers": [
+      "Coin basket in this lane.",
+      "Cashier in this lane.",
+      "Ticket dispenser in this lane.",
+      "Electronic toll collection."
+  ],
+  "correctAnswer": "Coin basket in this lane.",
+  "explanation": "This sign is used at toll plazas to direct traffic into a lane where the toll charge may be paid by putting the exact change into an automatic coin machine. This lane usually has a height barrier fitted to prevent large vehicles using it."
+},
+{
+  "id": 75,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this sign mean when displayed on the approach to a toll plaza?",
+  "image": "motorway_sign_9_75_electronic_toll_accepted_in_any_lane",
+  "answers": [
+    "Electronic toll not accepted in this lane.",
+    "Payment in euros only in this lane.",
+    "Electronic toll accepted in any lane.",
+    "Electronic toll out of order in this lane."
+  ],
+  "correctAnswer": "Electronic toll accepted in any lane.",
+  "explanation": "This sign is used at toll plazas to direct traffic into a lane where the toll charge is collected electronically. When the vehicle passes through the plaza it is identified by means of an electronic tag fitted to the front windscreen. Payment will be collected via the users account. Only vehicles fitted with the tags are allowed to use those lanes."
+},
+{
+  "id": 76,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does a flashing amber arrow pointing left at a traffic light mean?",
+  "image": "tl_76_flashing_amber_arrow_left",
+  "answers": [
+    "The driver must wait until the traffic lights turn green.",
+    "A driver may proceed before traffic on the other road.",
+    "A driver must not proceed in this direction.",
+    "A driver may turn left but must yield to traffic on the other road."
+  ],
+  "correctAnswer": "A driver may turn left but must yield to traffic on the other road.",
+  "explanation": "A flashing left amber arrow at a junction means you may proceed left but must give way to pedestrians and traffic already coming through the junction on the other road."
+},
+{
+  "id": 77,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this sign mean?",
+  "image": "motorway_sign_1_77_entry_to_motorway",
+  "answers": [
+    "Bridge ahead.",
+    "End of motorway.",
+    "Entry to motorway.",
+    "Motorway exit ahead."
+  ],
+  "correctAnswer": "Entry to motorway.",
+  "explanation": "This road sign informs road users that they are entering the motorway and must obey motorway rules. Before driving on the motorway users must familiarise themselves with motorway rules."
+},
+{
+  "id": 78,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this sign mean?",
+  "image": "warning_sign_8_78_y_junction_ahead_with_roads_of_equal_importance",
+  "answers": [
+    "Start of dual carriageway.",
+    "Y-junction ahead with roads of equal importance.",
+    "Minor road ahead.",
+    "T-junction ahead with major road."
+  ],
+  "correctAnswer": "Y-junction ahead with roads of equal importance.",
+  "explanation": "This sign gives advance warning of a Y-junction hazard ahead with a road of equal importance. Be prepared to yield to other road users."
+},
+{
+  "id": 79,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this sign mean?",
+  "image": "warning_sign_12_79_roundabout_ahead",
+  "answers": [
+    "Loop road ahead.",
+    "Roundabout ahead.",
+    "Ring road ahead.",
+    "U-turn ahead."
+  ],
+  "correctAnswer": "Roundabout ahead.",
+  "explanation": "This sign gives advance warning of a roundabout ahead. You must be prepared to yield to other road users already on the roundabout or coming from the right."
+},
+{
+  "id": 80,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this sign mean?",
+  "image": "warning_sign_13_80_mini_roundabout_ahead",
+  "answers": [
+      "Mini-roundabout ahead.",
+      "Roadworks ahead, diversion in operation.",
+      "Loop road ahead.",
+      "One-way street ahead."
+  ],
+  "correctAnswer": "Mini-roundabout ahead.",
+  "explanation": "This sign gives advance warning of a mini-roundabout ahead. You must be prepared to yield to other road users already on the roundabout or coming from the right."
+},
+{
+  "id": 81,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this sign mean?",
+  "image": "warning_sign_32_81_automatic_level_crossing_ahead",
+  "answers": [
+    "Attended level crossing ahead.",
+    "Unguarded level crossing ahead.",
+    "Automatic level crossing ahead.",
+    "Manual level crossing ahead."
+  ],
+  "correctAnswer": "Automatic level crossing ahead.",
+  "explanation": "This sign gives advance warning of an automatic level crossing ahead. Drivers should approach with caution and be prepared to slow down or stop as necessary."
+},
+{
+  "id": 82,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this sign mean?",
+  "image": "warning_sign_36_82_unprotected_quay_canal_or_river_ahead",
+  "answers": [
+    "Road likely to flood.",
+    "Steep descent ahead.",
+    "Unprotected quay, canal or river ahead.",
+    "Waterfall ahead - proceed with caution."
+  ],
+  "correctAnswer": "Unprotected quay, canal or river ahead.",
+  "explanation": "This sign gives advance warning of an unprotected area of water ahead. You should be cautious due to the extreme danger."
+},
+{
+  "id": 83,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this sign mean?",
+  "image": "warning_sign_44_83_deer_or_wild_animals_ahead",
+  "answers": [
+    "Cattle and farm animals ahead.",
+    "Deer or wild animals ahead.",
+    "Stag hunting ahead.",
+    "Wild boar ahead."
+  ],
+  "correctAnswer": "Deer or wild animals ahead.",
+  "explanation": "This sign gives advance warning that there may be deer or other wild animals coming onto the roadway. Be prepared to slow down or stop suddenly if required."
+},
+{
+  "id": 84,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this sign mean?",
+  "image": "worker_sign_1_84_roadworks_ahead",
+  "answers": [
+    "Flagman ahead.",
+    "Roadworks ahead.",
+    "Building site ahead.",
+    "Pedestrian crossing ahead."
+  ],
+  "correctAnswer": "Roadworks ahead.",
+  "explanation": "This warning sign tells you that there are roadworks ahead. You should approach with caution and be alert for a change in the road surface, and for the presence of machinery and road workers."
+},
+{
+  "id": 85,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this sign mean?",
+  "image": "regulatory_sign_47_85_with_flow_bus_and_cycle_lane_on_left",
+  "answers": [
+      "Cycle track ahead may be crossed by buses only.",
+      "Parking for buses and bicycles on left.",
+      "With-flow bus and cycle lane on left.",
+      "Parking for bicycles only on right."
+  ],
+  "correctAnswer": "With-flow bus and cycle lane on left.",
+  "explanation": "This sign indicates a nearside with-flow bus lane on the left. Only buses, taxis and cyclists may use the bus lane during the stated operational hours."
+},
+{
+  "id": 86,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this sign mean?",
+  "image": "warning_sign_4_86_crossroads_ahead_with_roads_of_equal_importance",
+  "answers": [
+    "Major road ahead.",
+    "Crossroads ahead with roads of lesser importance.",
+    "Crossroads ahead with roads of equal importance.",
+    "Crossroads ahead with traffic lights."
+  ],
+  "correctAnswer": "Crossroads ahead with roads of equal importance.",
+  "explanation": "This sign gives advance warning of a crossroad junction ahead where the roads are of equal importance. At this type of junction you should yield to traffic approaching from the right and traffic already turning."
+},
+{
+  "id": 87,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this sign mean?",
+  "image": "warning_sign_15_87_dangerous_bend_ahead",
+  "answers": [
+      "Dangerous bend ahead.",
+      "Dangerous corner ahead.",
+      "Turn left.",
+      "Sharp turn ahead."
+  ],
+  "correctAnswer": "Dangerous bend ahead.",
+  "explanation": "This sign gives advance warning of a dangerous bend to the left. You may need to slow down and react to any changes in the traffic situation ahead."
+},
+{
+  "id": 88,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this sign mean?",
+  "image": "warning_sign_16_88_series_of_dangerous_corners_ahead",
+  "answers": [
+    "Overhead electric cables.",
+    "Series of dangerous corners ahead.",
+    "Series of dangerous bends ahead.",
+    "Sharp incline ahead."
+  ],
+  "correctAnswer": "Series of dangerous corners ahead.",
+  "explanation": "This sign gives advance warning of a series of dangerous corners ahead. You should slow down and react to any changes in the traffic situation."
+},
+{
+  "id": 89,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this sign mean?",
+  "image": "warning_sign_17_89_series_of_dangerous_bends_ahead",
+  "answers": [
+    "Series of dangerous bends ahead.",
+    "Series of dangerous corners ahead.",
+    "Slippery road ahead.",
+    "Sharp turn ahead."
+  ],
+  "correctAnswer": "Series of dangerous bends ahead.",
+  "explanation": "This sign gives advance warning of a series of dangerous bends ahead. You should slow down and react to any changes in the traffic situation."
+},
+{
+  "id": 90,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this sign mean?",
+  "image": "warning_sign_20_90_road_narrows_on_both_sides",
+  "answers": [
+     "End of dual carriageway ahead.",
+     "Traffic merging from both sides.",
+     "Road narrows on both sides.",
+     "End of obstruction between lanes."
+   ],
+  "correctAnswer": "Road narrows on both sides.",
+  "explanation": "This sign indicates that the road narrows on both sides, meaning drivers should be prepared for a change in the road width, and they may need to adjust their speed or position accordingly. It's important to pay attention to this sign to ensure safe driving in narrow sections of the road."
+},
+{
+  "id": 91,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this sign mean?",
+  "image": "warning_sign_23_91_two_way_traffic_ahead",
+  "answers": [
+    "One-way street ahead.",
+    "Two-way traffic ahead.",
+    "Dual carriageway ahead.",
+    "One-lane road ahead."
+  ],
+  "correctAnswer": "Two-way traffic ahead.",
+  "explanation": "This sign gives advance warning of two-way traffic ahead, with oncoming traffic in the opposite lane."
+},
+{
+  "id": 92,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this sign mean?",
+  "image": "warning_sign_25_92_steep_ascent_ahead",
+  "answers": [
+    "Steep descent ahead.",
+    "Humpback bridge ahead.",
+    "Steep ascent ahead.",
+    "Sharp curve ahead."
+  ],
+  "correctAnswer": "Steep ascent ahead.",
+  "explanation": "This sign gives advance warning of a steep ascent/upward hill ahead. You should react by selecting the appropriate gear."
+},
+{
+  "id": 93,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this sign mean?",
+  "image": "warning_sign_39_93_school_children_crossing_ahead",
+  "answers": [
+    "Level crossing ahead with pedestrian walkway.",
+    "Playground ahead.",
+    "School children crossing ahead.",
+    "Railway station ahead."
+  ],
+  "correctAnswer": "School children crossing ahead.",
+  "explanation": "This sign gives advance warning that there may be school children crossing the road ahead, slow down if required and be prepared to stop."
+},
+{
+  "id": 94,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What do these signs together mean?",
+  "image": "warning_sign_40_94_beware_of_children_crossing",
+  "answers": [
+    "Loose chippings on the road ahead.",
+    "Slippery road - children may fall.",
+    "Beware of children crossing.",
+    "Pedestrian crossing ahead."
+  ],
+  "correctAnswer": "Beware of children crossing.",
+  "explanation": "These signs are usually displayed in residential areas, and they give advance warning that children might be crossing ahead. You should proceed cautiously and be prepared to stop suddenly."
+},
+{
+  "id": 95,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this sign mean?",
+  "image": "warning_sign_42_95_possibility_of_cattle_or_farm_animals_ahead",
+  "answers": [
+    "Cattle grid ahead.",
+    "Possibility of cattle or farm animals ahead.",
+    "Livestock mart ahead.",
+    "Farmhouse ahead."
+  ],
+  "correctAnswer": "Possibility of cattle or farm animals ahead.",
+  "explanation": "This sign gives advance warning that there may be cattle or other farm animals on the road ahead. Slow down if required and be prepared to stop."
+},
+{
+  "id": 96,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this sign mean?",
+  "image": "warning_sign_43_96_possibility_of_sheep_ahead",
+  "answers": [
+    "Abattoir ahead.",
+    "Possibility of sheep ahead.",
+    "Sheep market ahead.",
+    "Cattle grid ahead."
+  ],
+  "correctAnswer": "Possibility of sheep ahead.",
+  "explanation": "This sign gives advance warning that there may be sheep on the road ahead. Slow down if required and be prepared to stop."
+},
+{
+  "id": 97,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this sign mean?",
+  "image": "warning_sign_47_97_tunnel_ahead",
+  "answers": [
+    "Tunnel ahead.",
+    "Low bridge ahead.",
+    "Historic site ahead.",
+    "Bridge ahead."
+  ],
+  "correctAnswer": "Tunnel ahead.",
+  "explanation": "This sign gives advance warning of a tunnel ahead. You should be aware of the procedures to follow when entering a tunnel – which include keeping a safe distance from the vehicle ahead or removing sunglasses."
+},
+{
+  "id": 98,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this sign mean?",
+  "image": "warning_sign_48_98_danger_of_falling_rocks_ahead",
+  "answers": [
+    "Rugged coast ahead.",
+    "Steep descent ahead.",
+    "Danger of falling rocks ahead.",
+    "Sharp bend ahead."
+  ],
+  "correctAnswer": "Danger of falling rocks ahead.",
+  "explanation": "This sign gives advance warning that there is a danger of rocks and other debris falling onto the road. Drive with caution."
+},
+{
+  "id": 99,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this sign mean?",
+  "image": "warning_sign_49_99_possibility_of_low_flying_aircraft",
+  "answers": [
+    "Airport ahead.",
+    "Direction of prevailing wind.",
+    "Possibility of low flying aircraft.",
+    "Caution – aerial photography zone ahead."
+  ],
+  "correctAnswer": "Possibility of low flying aircraft.",
+  "explanation": "This sign gives advance warning that there may be low-flying aircraft in the area. Low-flying aircraft can cause distraction due to a sudden loud noise."
+},
+{
+  "id": 100,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this sign mean?",
+  "image": "warning_sign_49_100_driver_must_drive_on_left_hand_side",
+  "answers": [
+    "A driver must overtake on the left-hand side.",
+    "A driver must merge from the left.",
+    "A driver must drive on the left-hand side.",
+    "A driver must stop on the left-hand side."
+  ],
+  "correctAnswer": "A driver must drive on the left-hand side.",
+  "explanation": "This sign is generally in areas where tourists might be travelling and reminds motorists to drive on the left. These signs are commonly found around airports and ferry ports."
+},
+{
+  "id": 101,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this sign mean?",
+  "image": "worker_sign_3_101_slippery_road",
+  "answers": [
+    "Road narrows from the right.",
+    "Slippery road.",
+    "Series of bends ahead.",
+    "Sharp decline ahead."
+  ],
+  "correctAnswer": "Slippery road.",
+  "explanation": "This roadworks warning sign tells you that the surface ahead is slippery due to mud or debris and there is an increased risk of skidding."
+},
+{
+  "id": 102,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this sign mean?",
+  "image": "worker_sign_4_102_road_narrows_from_left",
+  "answers": [
+    "Slow lane ends ahead.",
+    "Road narrows from left.",
+    "Left-hand lane has an uneven surface.",
+    "Right-hand lane has an uneven surface."
+  ],
+  "correctAnswer": "Road narrows from left.",
+  "explanation": "This warning sign tells you that there are roadworks up ahead where the road narrows from the left creating a potential hazard."
+},
+{
+  "id": 103,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this sign mean?",
+  "image": "worker_sign_8_103_temporary_traffic_signals_ahead",
+  "answers": [
+    "Temporary traffic signals ahead.",
+    "Railway crossing ahead.",
+    "School children crossing ahead.",
+    "Pedestrian crossing ahead."
+  ],
+  "correctAnswer": "Temporary traffic signals ahead.",
+  "explanation": "This roadworks warning sign tells you that temporary traffic signals are in use ahead. You should prepare to slow down, approach with caution and comply with the signal displayed."
+},
+{
+  "id": 104,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this sign mean?",
+  "image": "worker_sign_11_104_nearside_lane_of_three_closed",
+  "answers": [
+    "Do not drive on the hard shoulder.",
+    "Nearside lane of three closed.",
+    "Overtaking permitted, except on the left lane.",
+    "Overtaking permitted on both lanes."
+  ],
+  "correctAnswer": "Nearside lane of three closed.",
+  "explanation": "This roadworks warning sign tells you that the nearside (left-hand) lane of three is closed up ahead. If you are in this lane you will need to move to the centre (middle) lane when it is safe to do so."
+},
+{
+  "id": 105,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "At roadworks, what does this sign mean?",
+  "image": "worker_sign_16_105_proceed_with_caution",
+  "answers": [
+    "Proceed with caution.",
+    "Stop and wait for the signal.",
+    "Proceed if the road is clear.",
+    "Proceed after checking for pedestrians."
+  ],
+  "correctAnswer": "Proceed with caution.",
+  "explanation": "This traffic control sign tells you that you may proceed with caution through road works."
+},
+{
+  "id": 106,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "At roadworks, what does this sign mean?",
+  "image": "worker_sign_17_106_stop_before_or_at_the_sign",
+  "answers": [
+      "Stop before or at the sign.",
+      "Stop for school warden.",
+      "Stop only if faced by oncoming traffic.",
+      "Stop if the traffic light is flashing amber."
+  ],
+  "correctAnswer": "Stop before or at the sign.",
+  "explanation": "This traffic control sign at roadworks means you must stop."
+},
+{
+  "id": 107,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What do these signs together mean?",
+  "image": "worker_sign_18_107_end_of_detour",
+  "answers": [
+    "End of detour.",
+    "End of road works.",
+    "End of road.",
+    "End of construction zone."
+  ],
+  "correctAnswer": "End of detour.",
+  "explanation": "Together these two signs indicate that a detour has ended."
+},
+{
+  "id": 108,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this hand signal mean?",
+  "image": "hand_signal_5_108_the_cyclist_intends_to_turn_right",
+  "answers": [
+    "The cyclist intends to stop.",
+    "The cyclist intends to turn right.",
+    "The cyclist intends to turn left.",
+    "The cyclist intends to go straight."
+  ],
+  "correctAnswer": "The cyclist intends to turn right.",
+  "explanation": "This hand signal tells other road users that the cyclist intends to either move out or make a right-hand turn. Drivers should be aware that cyclists could cross the path of their vehicle."
+},
+{
+  "id": 109,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What distance after a pedestrian crossing can a driver park to make a delivery?",
+  "image": "",
+  "answers": [
+    "15 metres",
+    "5 metres",
+    "10 metres",
+    "20 metres"
+  ],
+  "correctAnswer": "5 metres",
+  "explanation": "Make sure you do not interfere with normal traffic flow and that your vehicle does not disturb, block or endanger other road users. A driver must not park 15 metres before or 5 metres after a pedestrian crossing or traffic lights."
+},
+{
+  "id": 110,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does a continuous white line in the centre of the road mean?",
+  "image": "i_110_vehicles_may_not_cross_or_drive_over_the_line",
+  "answers": [
+    "Vehicles may cross the line for a short time.",
+    "Vehicles may park during daylight hours only.",
+    "Vehicles may perform a U-turn.",
+    "Vehicles may not cross or drive over the line."
+  ],
+  "correctAnswer": "Vehicles may not cross or drive over the line.",
+  "explanation": "You must not cross or straddle a continuous white line in the centre of the road unless you wish to enter land or premises and it is safe to do so."
+},
+{
+  "id": 111,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What lights are recommended to be used when parking or leaving a vehicle for a short period of time on the side of the road at night?",
+  "image": "",
+  "answers": [
+    "Rear fog lights in order to alert other road users to the vehicle’s size.",
+    "Front dipped headlights in order to alert other road users to the vehicle’s location.",
+    "Front and rear side lights to alert other road users to the vehicle’s presence.",
+    "Rear lights are only needed when driving at night."
+  ],
+  "correctAnswer": "Front and rear side lights to alert other road users to the vehicle’s presence.",
+  "explanation": "Drivers can quickly become dazzled and disorientated by headlights or fog lights of parked vehicles. If you need to have lights on in these circumstances, you should use only side or parking lights. You should not leave headlights on when parked."
+},
+{
+  "id": 112,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What should a driver check when parking their vehicle?",
+  "image": "",
+  "answers": [
+      "That the roadway is adequately lit.",
+      "That the vehicle is at least 15 centimetres from the kerb.",
+      "That they comply with mandatory road markings and signs.",
+      "That the vehicle is equipped with a fire extinguisher."
+  ],
+  "correctAnswer": "That they comply with mandatory road markings and signs.",
+  "explanation": "Drivers should ensure when parking their vehicle on a roadway that they comply with all relevant road markings and road signs posted, e.g. a driver should not park opposite a continuous white line."
+},
+{
+  "id": 113,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this sign mean?",
+  "image": "warning_sign_43_113_tramway_crossing_ahead",
+  "answers": [
+    "Bus and tramway crossing ahead.",
+    "Railway station.",
+    "Tramway crossing ahead.",
+    "Level crossing ahead."
+  ],
+  "correctAnswer": "Tramway crossing ahead.",
+  "explanation": "This sign gives advance warning sign of a tram crossing ahead. You should be prepared to stop and yield to the tram, if required."
+},
+{
+  "id": 114,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What must a driver do when this sign is NOT accompanied by a white stop line on the road?",
+  "image": "regulatory_sign_04_114_stop_at_the_sign",
+  "answers": [
+    "Stop no more than one car length past the sign.",
+    "Stop only if there is traffic on the major road.",
+    "Stop at the sign.",
+    "Stop after driving through the intersection."
+  ],
+  "correctAnswer": "Stop at the sign.",
+  "explanation": "Where a STOP sign is not accompanied by a white stop line, you must stop at the sign."
+},
+{
+  "id": 115,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this sign mean at a junction?",
+  "image": "regulatory_sign_05_115_yield_to_traffic_on_the_major_road",
+  "answers": [
+    "Yield to traffic on the major road.",
+    "Yield to all heavy goods vehicles.",
+    "Yield to traffic coming from your right only.",
+    "Slow down and yield to pedestrians."
+  ],
+  "correctAnswer": "Yield to traffic on the major road.",
+  "explanation": "At a junction, the YIELD sign tells you that you must give way to traffic on a major road ahead. This means that you must slow down and be prepared to stop."
+},
+{
+  "id": 116,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this sign mean at a roundabout?",
+  "image": "regulatory_sign_06_116_yield_to_traffic_coming_from_the_right_or_already_on_the_roundabout",
+  "answers": [
+    "Yield to traffic coming from the left.",
+    "Yield to traffic coming from the right, or already on the roundabout.",
+    "Yield to cyclists and motorcyclists only.",
+    "Yield to buses and trucks only."
+  ],
+  "correctAnswer": "Yield to traffic coming from the right, or already on the roundabout.",
+  "explanation": "At a roundabout, the YIELD sign tells you that you must slow down and be prepared to stop. You must yield (give way) to traffic already on the roundabout or coming from the right."
+},
+{
+  "id": 117,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this sign mean?",
+  "image": "regulatory_sign_8_117_turn_left_only",
+  "answers": [
+      "Motorway to the left.",
+      "Turn left only.",
+      "Traffic from the right has priority.",
+      "Diversion ahead to the right."
+  ],
+  "correctAnswer": "Turn left only.",
+  "explanation": "This sign tells you that you must turn left. It is usually displayed at a junction where all traffic must turn left – for example, in a one-way system that incorporates a junction."
+},
+{
+  "id": 118,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this sign mean?",
+  "image": "regulatory_sign_9_118_turn_right_only",
+  "answers": [
+      "Overtake only on the right.",
+      "Major road joining from the left.",
+      "Turn right only.",
+      "Diversion ahead to the right."
+  ],
+  "correctAnswer": "Turn right only.",
+  "explanation": "This sign tells you that you must turn right. It is usually displayed at a junction where all traffic must turn right – for example, in a one-way system that incorporates a junction."
+},
+{
+  "id": 119,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this sign mean?",
+  "image": "regulatory_sign_10_119_turn_left_ahead",
+  "answers": [
+    "Turn left ahead.",
+    "Sharp corner to the left ahead.",
+    "One-way traffic to the left ahead.",
+    "Diversion to the left ahead."
+  ],
+  "correctAnswer": "Turn left ahead.",
+  "explanation": "This sign tells you that you must turn left ahead. It is usually displayed on the approach to a one-way system."
+},
+
+{
+  "id": 120,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this sign mean?",
+  "image": "regulatory_sign_11_120_you_must_turn_right_ahead",
+  "answers": [
+    "You must turn right ahead.",
+    "One-way traffic to the right ahead.",
+    "Diversion to the right ahead.",
+    "Sharp bend to the right ahead."
+  ],
+  "correctAnswer": "You must turn right ahead.",
+  "explanation": "This sign tells you that you must turn right ahead. It is usually displayed on the approach to a one-way system."
+},
+{
+  "id": 121,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this sign mean?",
+  "image": "regulatory_sign_14_121_pass_either_side",
+  "answers": [
+    "One-way street.",
+    "Two-way traffic ahead.",
+    "Pass either side.",
+    "Dual carriageway ahead."
+  ],
+  "correctAnswer": "Pass either side.",
+  "explanation": "This sign tells you that traffic may pass on either side of the traffic island."
+},
+{
+  "id": 122,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this sign mean?",
+  "image": "regulatory_sign_19_122_u_turn_not_permitted",
+  "answers": [
+    "Reversing not permitted.",
+    "U-turn not permitted.",
+    "Two-way traffic prohibited.",
+    "Entry to tunnel prohibited."
+  ],
+  "correctAnswer": "U-turn not permitted.",
+  "explanation": "This sign tells you that you are not permitted to make a U-turn. It is commonly displayed on approach to junctions on dual carriageways. Drivers should also be aware that U-turns are also not permitted anywhere there is a continuous white line along the centre of the road or on a one-way street."
+},
+{
+  "id": 123,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this sign mean?",
+  "image": "regulatory_sign_29_123_disc_parking_operates_during_the_time_shown",
+  "answers": [
+    "Disc parking operates except during the hours shown.",
+    "Parking is prohibited during the hours shown.",
+    "Parking without a disc is allowed during the hours shown.",
+    "Disc parking operates during the time shown."
+  ],
+  "correctAnswer": "Disc parking operates during the time shown.",
+  "explanation": "This sign tells you that vehicles must display a parking disc when parked during the hours shown on the information plate."
+},
+{
+  "id": 124,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this sign mean?",
+  "image": "regulatory_sign_30_124_designated_rank_for_taxis",
+  "answers": [
+    "Designated rank for taxis.",
+    "Only taxis may turn right or left.",
+    "Private parking is permitted when the taxi rank is empty.",
+    "Private vehicles may pick up or set down passengers."
+  ],
+  "correctAnswer": "Designated rank for taxis.",
+  "explanation": "A taxi rank sign indicates that this is an area reserved for taxis, and parking or stopping by other road users is not permitted."
+},
+{
+  "id": 125,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this sign mean?",
+  "image": "regulatory_sign_40_125_start_of_cycle_track",
+  "answers": [
+    "Track reserved for motorcyclist.",
+    "Start of cycle track.",
+    "Cyclists must dismount ahead.",
+    "Bicycle race track."
+  ],
+  "correctAnswer": "Start of cycle track.",
+  "explanation": "This sign indicates the start of a cycle track. If the track is bounded by a broken white line, other road users should avoid using it wherever possible. If it is bounded by a continuous white line, drivers of cars and other vehicles must not drive on it."
+},
+{
+  "id": 126,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this sign mean?",
+  "image": "warning_sign_1_126_junction_ahead_with_roads_of_lesser_importance",
+  "answers": [
+    "Junction ahead with roads of equal importance.",
+    "Junction ahead with railway crossing.",
+    "Junction ahead with roads of greater importance.",
+    "Junction ahead with roads of lesser importance."
+  ],
+  "correctAnswer": "Junction ahead with roads of lesser importance.",
+  "explanation": "This sign gives advance warning of a junction ahead with minor roads on either side. Be aware that vehicles may be emerging from the minor roads."
+},
+{
+  "id": 127,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this sign mean?",
+  "image": "warning_sign_5_127_t_junction_ahead_with_roads_of_equal_importance",
+  "answers": [
+    "T-junction ahead with dual carriageway.",
+    "T-junction ahead with road of less importance.",
+    "T-junction ahead with roads of equal importance.",
+    "T-junction ahead with merging traffic."
+  ],
+  "correctAnswer": "T-junction ahead with roads of equal importance.",
+  "explanation": "This sign gives advance warning of a T-junction ahead with a road of equal importance. You must give way to traffic already on the road you are joining."
+},
+{
+  "id": 128,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this sign mean?",
+  "image": "warning_sign_28_128_level_crossing_ahead_unguarded_by_gates_or_barriers",
+  "answers": [
+    "Level crossing ahead unguarded by gates or barriers.",
+    "End of major roadworks ahead.",
+    "Level crossing ahead guarded by gates or barriers.",
+    "Major roadworks ahead."
+  ],
+  "correctAnswer": "Level crossing ahead unguarded by gates or barriers.",
+  "explanation": "This sign gives advanced warning of an unguarded level crossing ahead. This is a crossing without gates or barriers and you should cross it with extreme caution."
+}
+,
+{
+  "id": 129,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this sign mean?",
+  "image": "warning_sign_29_129_level_crossing_ahead_guarded_by_gates_or_barriers",
+  "answers": [
+    "Level crossing ahead guarded by gates or barriers.",
+    "Private grounds - no entry.",
+    "Road fencing ahead.",
+    "Farm machinery crossing ahead."
+  ],
+  "correctAnswer": "Level crossing ahead guarded by gates or barriers.",
+  "explanation": "This sign gives advance warning of a railway crossing ahead that is protected by gates or lifting barriers. You should be prepared to stop and follow the required procedure."
+},
+{
+  "id": 130,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this sign mean?",
+  "image": "warning_sign_33_130_sharp_rise_in_the_road_ahead_humpback_bridge",
+  "answers": [
+    "Traffic island ahead.",
+    "Road falls from centre to left and right.",
+    "Sharp rise in the road ahead - for example, a humpback bridge.",
+    "Series of bumps or hollows ahead."
+  ],
+  "correctAnswer": "Sharp rise in the road ahead - for example, a humpback bridge.",
+  "explanation": "This sign gives advance warning of a hump in the road. You should adjust your speed accordingly."
+},
+{
+  "id": 131,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this sign mean?",
+  "image": "warning_sign_41_131_accompanied_horses_and_ponies_ahead",
+  "answers": [
+    "Racecourse ahead.",
+    "Riding path - no vehicles allowed.",
+    "Entrance to horse riding school.",
+    "Accompanied horses and ponies ahead."
+  ],
+  "correctAnswer": "Accompanied horses and ponies ahead.",
+  "explanation": "This sign gives advance warning that there may be horses on the road ahead. You should show due regard for horses and their riders."
+},
+{
+  "id": 132,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this sign mean?",
+  "image": "warning_sign_46_132_pedestrian_crossing_ahead",
+  "answers": [
+    "School ahead.",
+    "Lane reserved for pedestrians.",
+    "Beware of pedestrians at night.",
+    "Pedestrian crossing ahead."
+  ],
+  "correctAnswer": "Pedestrian crossing ahead.",
+  "explanation": "This sign gives advance warning of a pedestrian crossing ahead. You should show caution and be prepared to stop."
+},
+{
+  "id": 133,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this sign mean?",
+  "image": "motorway_sign_5_133_200_metres_to_the_next_exit",
+  "answers": [
+    "No overtaking for 200 metres.",
+    "Sharp descent in 200 metres.",
+    "Dual carriageway crossing ahead.",
+    "200 metres to the next exit."
+  ],
+  "correctAnswer": "200 metres to the next exit.",
+  "explanation": "This is a motorway information sign that tells you that the next exit off the motorway is 200 metres ahead."
+},
+{
+  "id": 134,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this sign mean?",
+  "image": "worker_sign_21_134_start_of_central_reserve_or_obstruction",
+  "answers": [
+    "Dual carriageway ahead.",
+    "Start of central reserve or obstruction.",
+    "Heavy vehicles have priority.",
+    "Mini-roundabout ahead."
+  ],
+  "correctAnswer": "Start of central reserve or obstruction.",
+  "explanation": "This roadworks warning sign tells you that two-way traffic will separate to avoid an obstruction."
+},
+{
+  "id": 135,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this hand signal mean?",
+  "image": "hand_signal_3_135_the_cyclist_intends_to_go_straight_on",
+  "answers": [
+    "The cyclist is giving way to other traffic.",
+    "The cyclist intends to go straight on.",
+    "The cyclist intends to turn left.",
+    "The cyclist intends to stop."
+  ],
+  "correctAnswer": "The cyclist intends to go straight on.",
+  "explanation": "This hand signal informs other road users that the cyclist intends to proceed straight ahead at a junction and drivers should show caution."
+},
+{
+  "id": 136,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this hand signal mean?",
+  "image": "hand_signal_7_136_the_driver_intends_to_turn_left",
+  "answers": [
+      "The driver intends to turn right.",
+      "The driver intends to turn left.",
+      "The driver intends to slow down or stop.",
+      "The driver intends to go straight ahead."
+  ],
+  "correctAnswer": "The driver intends to turn left.",
+  "explanation": "This hand signal informs other road users that the driver intends to turn left and the vehicle will change direction."
+},
+{
+  "id": 137,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this hand signal mean?",
+  "image": "hand_signal_8_137_the_driver_intends_to_move_out_or_turn_right",
+  "answers": [
+    "The driver intends to turn left.",
+    "The driver intends to do a U-turn.",
+    "The driver intends to stop ahead.",
+    "The driver intends to move out or turn right."
+  ],
+  "correctAnswer": "The driver intends to move out or turn right.",
+  "explanation": "This hand signal informs other road users that the driver intends to move out or turn right and the vehicle will change direction."
+},
+{
+  "id": 138,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this hand signal mean?",
+  "image": "hand_signal_9_138_the_driver_intends_to_slow_down_or_stop",
+  "answers": [
+    "The driver intends to turn right.",
+    "The driver intends to turn left.",
+    "The driver intends to slow down or stop.",
+    "The driver intends to begin a U-turn."
+  ],
+  "correctAnswer": "The driver intends to slow down or stop.",
+  "explanation": "This hand signal informs other road users that the driver intends to slow down or stop and following traffic should be prepared to slow down also."
+},
+{
+  "id": 139,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this hand signal mean?",
+  "image": "hand_signal_10_139_the_driver_intends_to_turn_left",
+  "answers": [
+    "The driver intends to slow down.",
+    "The driver intends to stop.",
+    "The driver intends to turn right.",
+    "The driver intends to turn left."
+  ],
+  "correctAnswer": "The driver intends to turn left.",
+  "explanation": "This hand signal informs other road users or a Garda directing traffic (facing this vehicle), that the driver intends to make a left-hand turn."
+},
+{
+  "id": 140,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this hand signal mean?",
+  "image": "hand_signal_11_140_the_driver_intends_to_turn_right",
+  "answers": [
+      "The driver intends to slow down.",
+      "The driver intends to turn left.",
+      "The driver will begin to reverse.",
+      "The driver intends to turn right."
+  ],
+  "correctAnswer": "The driver intends to turn right.",
+  "explanation": "This hand signal informs other road users or a Garda directing traffic (facing this vehicle) that the driver intends to turn right."
+},
+{
+  "id": 141,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this Garda signal mean?",
+  "image": "hand_signal_14_141_stop_if_approaching_from_behind",
+  "answers": [
+    "Turn right.",
+    "Stop if approaching from behind.",
+    "Stop if approaching from front.",
+    "Turn left."
+  ],
+  "correctAnswer": "Stop if approaching from behind.",
+  "explanation": "When approaching a Garda giving this signal you must stop."
+},
+{
+  "id": 142,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this Garda signal mean?",
+  "image": "hand_signal_15_142_stop_if_approaching_from_either_the_front_or_behind",
+  "answers": [
+    "Turn right.",
+    "Proceed if approaching from the front.",
+    "Turn left.",
+    "Stop if approaching from either the front or behind."
+  ],
+  "correctAnswer": "Stop if approaching from either the front or behind.",
+  "explanation": "When approaching a Garda giving this signal you must stop."
+},
+{
+  "id": 143,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this Garda signal mean?",
+  "image": "hand_signal_16_143_the_garda_is_beckoning_on_traffic_approaching_from_either_side",
+  "answers": [
+    "The Garda is beckoning on traffic from the front.",
+    "The driver must not proceed to the right.",
+    "The driver must not proceed to the left.",
+    "The Garda is beckoning on traffic approaching from either side."
+  ],
+  "correctAnswer": "The Garda is beckoning on traffic approaching from either side.",
+  "explanation": "When approaching a Garda giving this signal you may proceed."
+}
+,
+{
+  "id": 144,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this Garda signal mean?",
+  "image": "hand_signal_17_144_traffic_approaching_from_the_front_may_proceed",
+  "answers": [
+    "Traffic approaching from behind must stop.",
+    "Traffic approaching from the right may proceed.",
+    "Traffic approaching from the front may proceed.",
+    "Traffic approaching from the left must yield."
+  ],
+  "correctAnswer": "Traffic approaching from the front may proceed.",
+  "explanation": "When approaching a Garda giving this signal you may proceed."
+},
+{
+  "id": 145,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this road marking indicate?",
+  "image": "road_1_145_zebra_crossroadng",
+  "answers": [
+    "Speed control ramp.",
+    "Pelican crossing.",
+    "Zebra crossing.",
+    "No entry."
+  ],
+  "correctAnswer": "Zebra crossing.",
+  "explanation": "A zebra crossing is a designated area for pedestrians to cross the road. As a driver you must always yield to pedestrians on a zebra crossing."
+},
+{
+  "id": 146,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this road marking mean?",
+  "image": "road_2_146_no_parkroadng_roadn_throads_area",
+  "answers": [
+    "No parking in this area.",
+    "A driver may overtake in this area.",
+    "Road surface is uneven.",
+    "Set down area only."
+  ],
+  "correctAnswer": "No parking in this area.",
+  "explanation": "This road marking indicates that parking is prohibited in this area. Drivers must not park in this section of the road."
+},
+{
+  "id": 147,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this road marking mean?",
+  "image": "road_3_147_traffroadc_must_not_enter_unless_they_can_clear_the_box_junctroadon_wroadthout_stopproadng_or_when_turnroadng_rroadght",
+  "answers": [
+    "Taxi set-down area.",
+    "Traffic must not enter unless they can clear the box junction without stopping, or when turning right.",
+    "Traffic entering a box junction may have right of way over traffic from both right and left.",
+    "Traffic entering a box junction from right and left has the right of way unless continuing straight on."
+  ],
+  "correctAnswer": "Traffic must not enter unless they can clear the box junction without stopping, or when turning right.",
+  "explanation": "You must not enter a yellow box junction unless you are sure you can clear it without stopping or if you are turning right and cannot do so due to oncoming traffic."
+},
+{
+  "id": 148,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this road marking mean?",
+  "image": "road_4_148_all_traffroadc_must_keep_to_the_left_of_the_whroadte_lroadne",
+  "answers": [
+    "Road narrows ahead.",
+    "All traffic must keep to the left of the white line.",
+    "A driver may overtake.",
+    "A driver is approaching a STOP sign."
+  ],
+  "correctAnswer": "All traffic must keep to the left of the white line.",
+  "explanation": "A continuous white line in the centre of the road indicates that you must not cross or straddle the line, nor should you overtake, perform a U-turn, or park on the road."
+},
+{
+  "id": 149,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this road marking and information plate together mean?",
+  "image": "road_5_149_parkroadng_not_allowed_at_the_troadmes_and_days_shown",
+  "answers": [
+    "Taxi parking only outside the times and days shown.",
+    "Taxi parking only at the times and days shown.",
+    "Parking only at times and days shown.",
+    "Parking not allowed at the times and days shown."
+  ],
+  "correctAnswer": "Parking not allowed at the times and days shown.",
+  "explanation": "A single yellow line along the edge of a road means that parking is prohibited during the times specified on the accompanying information plate."
+},
+{
+  "id": 150,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this road marking and information plate together mean?",
+  "image": "i_150_parking_not_allowed_at_the_times_shown",
+  "answers": [
+    "Taxi rank at times shown.",
+    "Parking not allowed at the times shown.",
+    "No parking at any time.",
+    "Loading bay at times shown."
+  ],
+  "correctAnswer": "Parking not allowed at the times shown.",
+  "explanation": "A single yellow line along the edge of a road means that you must not park there during the times shown on the accompanying information plate."
+},
+{
+  "id": 151,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this road marking mean?",
+  "image": "road_6_151_a_drroadver_must_not_cross_the_broken_whroadte_lroadne_unless_roadt_roads_safe_to_do_so",
+  "answers": [
+    "A driver may overtake provided they do not cross the broken white line.",
+    "A driver must not cross the broken white line unless it is safe to do so.",
+    "A driver may not park along this road.",
+    "A driver may overtake only when the road is clear."
+  ],
+  "correctAnswer": "A driver must not cross the broken white line unless it is safe to do so.",
+  "explanation": "A broken white line along the centre of the road means you must not cross the line unless it is safe to do so when overtaking or passing."
+},
+{
+  "id": 152,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What do these road markings mean?",
+  "image": "road_7_152_controadnuous_whroadte_lroadnes_ahead",
+  "answers": [
+    "Continuous white lines ahead.",
+    "No overtaking allowed.",
+    "Dual carriageway ahead.",
+    "No parking allowed."
+  ],
+  "correctAnswer": "Continuous white lines ahead.",
+  "explanation": "Double broken white lines along the centre of the road alert you to continuous white lines ahead. Do not cross them unless it is safe to do so."
+},
+{
+  "id": 153,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "If driving from A to B, what do these road markings mean?",
+  "image": "road_8_153_a_drroadver_may_overtake_roadf_roadt_roads_safe_to_do_so",
+  "answers": [
+    "A driver may overtake if it is safe to do so.",
+    "Dual carriageway ahead.",
+    "Road narrows ahead.",
+    "A driver may not overtake."
+  ],
+  "correctAnswer": "A driver may overtake if it is safe to do so.",
+  "explanation": "Where there is a broken white line and a continuous white line along the centre of the road, you must obey the line that is nearest to you. In this case you may cross the lines as long as it is safe to do so."
+},
+{
+  "id": 154,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "If driving from A to B, what do these road markings mean?",
+  "image": "road_9_154_a_drroadver_may_not_cross_the_lroadnes_to_overtake",
+  "answers": [
+    "Turn left ahead.",
+    "Sharp corner to the left ahead.",
+    "One-way traffic to the left ahead.",
+    "Diversion to the left ahead."
+  ],
+  "correctAnswer": "A driver may not cross the lines to overtake.",
+  "explanation": "Where there is a broken white line and a continuous white line along the centre of the road, you must obey the line that is nearest to you. In this case you may not cross the lines."
+},
+{
+  "id": 155,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this road marking mean?",
+  "image": "road_10_155_no_entry",
+  "answers": [
+    "Pedestrian crossing.",
+    "The road ahead is a cul-de-sac.",
+    "Private vehicles not allowed.",
+    "No entry."
+  ],
+  "correctAnswer": "No entry.",
+  "explanation": "This road marking indicates a one-way street. You may not enter this street."
+},
+{
+  "id": 156,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this road marking mean?",
+  "image": "road_11_156_parkroadng_prohroadbroadted_at_all_troadmes",
+  "answers": [
+    "Parking prohibited during business hours.",
+    "Keep outside the yellow lines.",
+    "Taxi parking only.",
+    "Parking prohibited at all times."
+  ],
+  "correctAnswer": "Parking prohibited at all times.",
+  "explanation": "A double yellow line along the edge of the road means parking is not allowed at any time."
+},
+{
+  "id": 157,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this road marking mean?",
+  "image": "road_12_157_drivers_must_keep_left_of_the_controadnuous_whroadte_lroadne",
+  "answers": [
+    "Drivers must keep left of the continuous white line.",
+    "Oncoming traffic may cross the line to overtake.",
+    "Only motorcyclists may cross the lines to overtake.",
+    "Drivers may cross the line to overtake."
+  ],
+  "correctAnswer": "Drivers must keep left of the continuous white line.",
+  "explanation": "A single continuous white line along the centre of the road means all traffic must keep to the left of the line. You are not permitted to overtake or perform a U-turn on this section of road."
+},
+{
+  "id": 158,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does the broken yellow line road marking mean?",
+  "image": "road_13_158_the_edge_of_the_carrroadageway_or_hard_shoulder",
+  "answers": [
+    "The edge of the carriageway or hard shoulder.",
+    "Slow lane for heavy vehicles only.",
+    "No stopping for any reason except in an emergency.",
+    "Parking prohibited at all times."
+  ],
+  "correctAnswer": "The edge of the carriageway or hard shoulder.",
+  "explanation": "A single broken yellow line along the side of the road marks the edge of the carriageway/hard shoulder. This is normally for the use of pedestrians and cyclists. As a driver, however, you may use it briefly to allow faster traffic to overtake, but only where it is safe to do so."
+},
+{
+  "id": 159,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this traffic light mean?",
+  "image": "tl_159_stop_unless_it_is_unsafe_to_do_so",
+  "answers": [
+    "The traffic lights are out of order.",
+    "Stop, unless it is unsafe to do so.",
+    "Proceed if the way is clear.",
+    "Prepare to move off."
+  ],
+  "correctAnswer": "Stop, unless it is unsafe to do so.",
+  "explanation": "When the traffic light is showing amber you must not go beyond the stop line unless you are so close to the traffic lights that stopping would be dangerous."
+},
+{
+  "id": 160,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this traffic light mean?",
+  "image": "tl_160_traffic_may_proceed_if_the_way_is_clear",
+  "answers": [
+    "Traffic may proceed but not turn right.",
+    "Traffic may proceed if the way is clear.",
+    "Traffic must stop at the traffic light.",
+    "Give way to any oncoming traffic turning right."
+  ],
+  "correctAnswer": "Traffic may proceed if the way is clear.",
+  "explanation": "You may proceed on a green traffic light if it is safe to do so."
+},
+{
+  "id": 161,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What colour traffic light comes on after the green?",
+  "image": "",
+  "answers": [
+    "Red only.",
+    "Flashing amber.",
+    "Amber only.",
+    "Green arrow."
+  ],
+  "correctAnswer": "Amber only.",
+  "explanation": "The normal sequence of traffic lights is red–green–amber."
+},
+{
+  "id": 162,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What colour traffic light comes on after a non-flashing amber light?",
+  "image": "",
+  "answers": [
+    "Flashing amber light.",
+    "Green only.",
+    "Red only.",
+    "Flashing red light."
+  ],
+  "correctAnswer": "Red only.",
+  "explanation": "The normal sequence of traffic lights is red–green–amber."
+},
+{
+  "id": 163,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What do flashing amber lights at a pelican crossing mean?",
+  "image": "",
+  "answers": [
+    "Drivers have right of way.",
+    "A driver is entering a special speed limit area.",
+    "Danger ahead.",
+    "Stop and give way to pedestrians - proceed if the way is clear."
+  ],
+  "correctAnswer": "Stop and give way to pedestrians - proceed if the way is clear.",
+  "explanation": "A flashing amber light at a pelican crossing means you must yield to pedestrians. You may proceed, however, if the crossing is clear."
+},
+{
+  "id": 164,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "Which car, if any, is parked incorrectly?",
+  "image": "i_164_both_cars",
+  "answers": [
+      "Both cars.",
+      "The red car.",
+      "Neither car.",
+      "The green car."
+  ],
+  "correctAnswer": "Both cars.",
+  "explanation": "It is an offence to park within 15 metres before or 5 metres after a pedestrian crossing. Parking in this manner may restrict the zone of vision of drivers approaching the crossing and endanger pedestrians."
+},
+{
+  "id": 165,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What should a driver do when approaching traffic lights that change from green to amber?",
+  "image": "i_165_stop_unless_it_is_unsafe_to_do_so",
+  "answers": [
+    "Accelerate to clear the junction.",
+    "Stop, unless it is unsafe to do so.",
+    "Sound the horn while proceeding through the junction.",
+    "Stop the vehicle immediately."
+  ],
+  "correctAnswer": "Stop, unless it is unsafe to do so.",
+  "explanation": "When you are approaching a set of traffic lights showing green, you should take care and be prepared to stop if the amber light comes on."
+},
+{
+  "id": 166,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What should a driver do at an amber traffic light?",
+  "image": "i_166_stop_at_the_line_unless_it_is_not_safe_to_do_so",
+  "answers": [
+    "Make sure to pass the lights before they turn red.",
+    "Stop at the line unless it is not safe to do so.",
+    "Continue as there is no traffic at the junction.",
+    "Continue only if sure that the junction is clear of pedestrians."
+  ],
+  "correctAnswer": "Stop at the line unless it is not safe to do so.",
+  "explanation": "By law you must stop at an amber traffic light if it is safe to do so."
+},
+{
+  "id": 167,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What restriction applies to a driver’s full licence if they have passed their test on a vehicle with automatic transmission?",
+  "image": "",
+  "answers": [
+    "They may not drive on motorways.",
+    "They may not drive at speeds of more than 80 km/h.",
+    "They must continue to display L plates.",
+    "They may not drive vehicles with manual transmission."
+  ],
+  "correctAnswer": "They may not drive vehicles with manual transmission.",
+  "explanation": "If you pass your driving test in a vehicle fitted with automatic transmission, a code 78 will be noted on the full licence in the restrictions/information column."
+},
+{
+  "id": 168,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What roads are learner permit holders allowed to drive on?",
+  "image": "",
+  "answers": [
+    "All roads except motorways.",
+    "All roads except motorways and dual-carriageways.",
+    "All roads except national roads.",
+    "All roads except dual-carriageways."
+  ],
+  "correctAnswer": "All roads except motorways.",
+  "explanation": "A learner permit holder must not drive on a motorway. It is a serious offence to do so."
+},
+{
+  "id": 169,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "How should an L plate be composed?",
+  "image": "",
+  "answers": [
+    "A red L on a transparent background.",
+    "A green L on a white background.",
+    "A red L on a white background.",
+    "A white L on a red background."
+  ],
+  "correctAnswer": "A red L on a white background.",
+  "explanation": "L plates should be displayed front and rear. The plates should be a red L on a white background and should be not less than 15 cm high with a border of at least 2 cm. A learner motorcyclist must wear a yellow tabard displaying L plates front and rear. The L plates must be not less than 15 cm high on a white background."
+},
+{
+  "id": 170,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "Which roads are learner permit holders not allowed to drive on?",
+  "image": "",
+  "answers": [
+    "They may not drive on national roads.",
+    "They may not drive on rural roads.",
+    "They may not drive on motorways.",
+    "They may not drive on dual carriageways."
+  ],
+  "correctAnswer": "They may not drive on motorways.",
+  "explanation": "A learner permit holder must not drive on a motorway. It is a serious offence to do so."
+},
+{
+  "id": 171,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "Is it permitted to use a vehicle in a public place without a current tax disc displayed?",
+  "image": "",
+  "answers": [
+    "Yes, but for not more than 10 days after the expiry of the previous disc.",
+    "No, only vintage vehicles are exempt from displaying a tax disc.",
+    "Yes, but for not more than one month after the expiry of the previous disc.",
+    "No, all motor vehicles must display a current tax disc."
+  ],
+  "correctAnswer": "No, all motor vehicles must display a current tax disc.",
+  "explanation": "A motor vehicle must be taxed and must display the up-to-date tax disk before it may be taken on the road."
+},
+{
+  "id": 172,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "If a driver wishes to drive a vehicle but the tax disc is expired, what should they do?",
+  "image": "",
+  "answers": [
+    "They should contact the Gardaí for approval.",
+    "They should renew it within 10 days of expiry.",
+    "They should drive it only in case of an emergency.",
+    "They should tax it immediately."
+  ],
+  "correctAnswer": "They should tax it immediately.",
+  "explanation": "A motor vehicle must be taxed and must display the up-to-date tax disc before it may be taken on the road."
+},
+{
+  "id": 173,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "If a driver wishes to drive another vehicle which is not currently taxed, would they be allowed to transfer the current tax disc from their own vehicle onto it?",
+  "image": "",
+  "answers": [
+      "Only on a temporary basis if the other vehicle is subject to a lower rate of tax.",
+      "Yes, provided their own vehicle is not being used at the same time.",
+      "Under circumstances when the proper form has been completed and sent to the local Motor Tax Office.",
+      "Under no circumstances should a tax disc be transferred to another vehicle."
+  ],
+  "correctAnswer": "Under no circumstances should a tax disc be transferred to another vehicle.",
+  "explanation": "A motor vehicle must be taxed and must display its own current tax disc before it may be taken on the road. The tax disc includes information about the vehicle, including its make and model, colour and registration number."
+},
+{
+  "id": 174,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "When a vehicle is being driven by a person who is not the owner, who is responsible for ensuring that the vehicle is taxed and that a current tax disc is displayed?",
+  "image": "",
+  "answers": [
+    "The driver and/or the owner of the vehicle are responsible.",
+    "The owner is the only one responsible.",
+    "The Gardaí have total responsibility in this area.",
+    "The driver is the only one responsible."
+  ],
+  "correctAnswer": "The driver and/or the owner of the vehicle are responsible.",
+  "explanation": "If you are the owner or the driver of a vehicle, you must ensure that it is taxed and that it displays an up-to-date tax disc before you take it on the road."
+},
+{
+  "id": 175,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "When must a current tax disc be displayed on a new vehicle on a public road?",
+  "image": "",
+  "answers": [
+    "Not later than 10 days after registration.",
+    "At all times when the vehicle is on a public road.",
+    "Not later than 1 month after registration.",
+    "Only when driving on motorways."
+  ],
+  "correctAnswer": "At all times when the vehicle is on a public road.",
+  "explanation": "A motor vehicle must be taxed before it may be taken on the road, and it must always display an up-to-date tax disc."
+},
+{
+  "id": 176,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "If a vehicle is being driven by someone who is not the owner but has the owner’s consent, who should ensure that the driver is properly insured?",
+  "image": "",
+  "answers": [
+    "The driver and the vehicle owner.",
+    "The vehicle owner only.",
+    "The driver only.",
+    "The insurance company."
+  ],
+  "correctAnswer": "The driver and the vehicle owner.",
+  "explanation": "All drivers must have insurance covering them to drive a vehicle on a public road. It is a serious offence to drive a vehicle that is not insured. It is also an offence to allow a vehicle that you own to be driven by an uninsured driver."
+},
+{
+  "id": 177,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "Is a driver still insured to drive their vehicle after their insurance policy has expired?",
+  "image": "",
+  "answers": [
+    "The driver is insured up to 14 days after the expiry of the policy.",
+    "The driver is not insured after the expiry of the policy.",
+    "The driver is insured up to 10 days after the expiry of the policy.",
+    "The driver is insured up to 7 days after the expiry of the policy."
+  ],
+  "correctAnswer": "The driver is not insured after the expiry of the policy.",
+  "explanation": "All drivers must have insurance covering them to drive a vehicle on a public road. The vehicle must display an up-to-date insurance disc."
+},
+{
+  "id": 178,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "If a driver wishes to drive another privately-owned vehicle but they are uncertain if they are insured to drive that vehicle, what should they do?",
+  "image": "",
+  "answers": [
+    "A driver should contact their own insurer to confirm whether or not their insurance policy covers the driving of other vehicles.",
+    "Drive it provided that they tell their insurance company within 10 days and agree to pay any additional premium.",
+    "Drive if there is an insurance disc on the vehicle.",
+    "Transfer the insurance disc from their own vehicle on to the vehicle they wish to drive."
+  ],
+  "correctAnswer": "A driver should contact their own insurer to confirm whether or not their insurance policy covers the driving of other vehicles.",
+  "explanation": "If you are in any doubt about your insurance cover, you should discuss the matter with your insurance company. It is a serious offence to drive without insurance."
+},
+{
+  "id": 179,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "When a driver wishes to drive a vehicle and they are not sure if they are covered by insurance, what should they do?",
+  "image": "",
+  "answers": [
+    "They should check with their local Motor Taxation Office to see if they are insured.",
+    "They should check with their local Garda station to see if they are insured.",
+    "They should not drive until their insurance company confirms that they are insured.",
+    "They should check with their local NDLS office to see if they are insured."
+  ],
+  "correctAnswer": "They should not drive until their insurance company confirms that they are insured.",
+  "explanation": "If you are in any doubt about your insurance cover, you should discuss the matter with your insurance company. It is a serious offence to drive without insurance."
+},
+{
+  "id": 180,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What is the minimum insurance cover a driver needs to drive on a public road?",
+  "image": "",
+  "answers": [
+    "Third party, fire and theft.",
+    "Personal accident.",
+    "Comprehensive.",
+    "Third party."
+  ],
+  "correctAnswer": "Third party.",
+  "explanation": "As a motorist, you must have a minimum of third party insurance."
+},
+{
+  "id": 181,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "If a driver passes their test using a vehicle with automatic transmission, which vehicles are they licensed to drive?",
+  "image": "",
+  "answers": [
+    "Only manual vehicles in the licence category.",
+    "All vehicles in the licence category but only automatic vehicles on a motorway.",
+    "Only automatic vehicles in the licence category.",
+    "All vehicles in the licence category."
+  ],
+  "correctAnswer": "Only automatic vehicles in the licence category.",
+  "explanation": "If you pass your driving test in an automatic or adapted vehicle, your full licence will apply to that type of vehicle only. A licence restricted to automatic vehicles will have a code 78 indicated in the restrictions/information column of the licence."
+},
+{
+  "id": 182,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "Which vehicle is exempt from speed limits when being used in an emergency?",
+  "image": "",
+  "answers": [
+      "Mountain rescue.",
+      "Breakdown recovery.",
+      "Fire Brigade.",
+      "Doctor on call."
+  ],
+  "correctAnswer": "Fire Brigade.",
+  "explanation": "In the course of their duty Gardaí, Fire Brigade and Ambulance personnel are exempt from some traffic laws including speed limits, as long as they do not put other road users in danger. If you hear or see a Garda or emergency vehicle approaching under emergency conditions, be extra careful and give way, if it is safe to do so."
+},
+{
+  "id": 183,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "Where can drivers locate the Maximum Authorised Mass (MAM) of their vehicle?",
+  "image": "",
+  "answers": [
+    "On the insurance disc.",
+    "On a metal plate on the vehicle.",
+    "On the tax disc.",
+    "On the NCT disc."
+  ],
+  "correctAnswer": "On a metal plate on the vehicle.",
+  "explanation": "The plate displaying the Maximum Authorised Mass (MAM) of a vehicle is normally located under the bonnet or in the passenger compartment. If you are not sure where it is located on your vehicle, check the driver’s handbook supplied with the vehicle."
+},
+{
+  "id": 184,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "Which vehicle is exempt from speed limits when being used in an emergency?",
+  "image": "",
+  "answers": [
+    "Doctor on call.",
+    "Mountain rescue.",
+    "Breakdown recovery.",
+    "Ambulance."
+  ],
+  "correctAnswer": "Ambulance.",
+  "explanation": "In the course of their duty Gardaí, Fire Brigade and Ambulance personnel are exempt from some traffic laws including speed limits, as long as they do not put other road users in danger. If you hear or see a Garda or emergency vehicle approaching under emergency conditions, be extra careful and give way, if it is safe to do so."
+},
+{
+  "id": 185,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "Which vehicle is exempt from speed limits when being used in an emergency?",
+  "image": "",
+  "answers": [
+    "Garda.",
+    "Doctor on call.",
+    "Breakdown recovery.",
+    "Fire Brigade."
+  ],
+  "correctAnswer": "Garda.",
+  "explanation": "In the course of their duty Gardaí, Fire Brigade and Ambulance personnel are exempt from some traffic laws including speed limits, as long as they do not put other road users in danger. If you hear or see a Garda or emergency vehicle approaching under emergency conditions, be extra careful and give way, if it is safe to do so."
+},
+{
+  "id": 186,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this sign mean?",
+  "image": "worker_sign_14_186_traffic_queues_likely_ahead",
+  "answers": [
+    "Steep incline ahead.",
+    "Traffic queues likely ahead.",
+    "Three vehicles may queue ahead.",
+    "Parking for residential vehicles on left."
+  ],
+  "correctAnswer": "Traffic queues likely ahead.",
+  "explanation": "This roadworks warning sign tells you that there may be traffic queues ahead, possibly due to temporary traffic lights at the works. Proceed with caution."
+},
+{
+  "id": 187,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this sign mean?",
+  "image": "worker_sign_15_187_uneven_surface",
+  "answers": [
+    "Slippery surface.",
+    "Uneven surface.",
+    "Soft margin on left.",
+    "Parking on left only."
+  ],
+  "correctAnswer": "Uneven surface.",
+  "explanation": "This roadworks warning sign tells you that the road surface may be uneven, possibly due to the resurfacing of part of a lane. Proceed with caution."
+},
+{
+  "id": 188,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "Where should L plates be displayed on cars?",
+  "image": "",
+  "answers": [
+    "Both front and rear.",
+    "On the front only.",
+    "On the driver’s side only.",
+    "On the rear only."
+  ],
+  "correctAnswer": "Both front and rear.",
+  "explanation": "The holder of a learner permit must display L plates on the front and rear of their car at all times when driving on public roads."
+},
+{
+  "id": 189,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "How would a driver calculate the maximum overall permitted weight of their vehicle?",
+  "image": "",
+  "answers": [
+    "By calculating the unladen weight of the vehicle plus the weight of the fuel.",
+    "By checking the unladen weight of the vehicle.",
+    "By adding the unladen weight of the vehicle to the load permitted to be carried.",
+    "By checking the weight of the load which may be carried."
+  ],
+  "correctAnswer": "By adding the unladen weight of the vehicle to the load permitted to be carried.",
+  "explanation": "The maximum permitted weight of a vehicle is the sum of the unladen weight of the vehicle plus the maximum load that may be carried in it. It is an offence to overload a vehicle, as it reduces your ability to control it effectively."
+},
+{
+  "id": 190,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What is the Maximum Authorised Mass (MAM) of a car that may be driven by the holder of a Category B driving licence?",
+  "image": "",
+  "answers": [
+    "4,000 kilograms.",
+    "3,750 kilograms.",
+    "3,000 kilograms.",
+    "3,500 kilograms."
+  ],
+  "correctAnswer": "3,500 kilograms.",
+  "explanation": "The holder of a Category B driving licence is not permitted to drive a vehicle with a MAM of more than 3,500 kg. This restriction is noted on the licence."
+},
+{
+  "id": 191,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What is the maximum number of passengers that may be carried in a vehicle driven by the holder of a Category B driving licence?",
+  "image": "",
+  "answers": [
+    "9 passengers.",
+    "8 passengers.",
+    "7 passengers.",
+    "10 passengers."
+  ],
+  "correctAnswer": "8 passengers.",
+  "explanation": "The holder of a Category B driving licence is not permitted to drive a vehicle that has seating for more than 8 passengers excluding the driver."
+},
+{
+  "id": 192,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "When can the holder of a Category W learner permit carry a passenger?",
+  "image": "",
+  "answers": [
+    "Only when the passenger also holds a Category W driving licence.",
+    "Only when the passenger also holds a Category W driving licence and the vehicle is designed to carry a passenger.",
+    "Only when the passenger holds a Category AM driving licence.",
+    "Only when the passenger holds a Category AM driving licence and the vehicle is designed to carry a passenger."
+  ],
+  "correctAnswer": "Only when the passenger also holds a Category W driving licence and the vehicle is designed to carry a passenger.",
+  "explanation": "The holder of a Category W learner permit may carry a passenger in the vehicle only if: The vehicle is designed to take a passenger, and the passenger has held a full driving licence in Category W for two or more years."
+},
+{
+  "id": 193,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "Is a driver allowed to use rebated (green) diesel fuel in a car on a public road?",
+  "image": "",
+  "answers": [
+    "Green diesel may be used in a car only in winter months.",
+    "Green diesel may never be used in a car.",
+    "Green diesel may be used in a car only in summer months.",
+    "Green diesel may be used in a car only if the car is a taxis."
+  ],
+  "correctAnswer": "Green diesel may never be used in a car.",
+  "explanation": "If, in its normal use, a vehicle is used on a public road, it must use unmarked (white) diesel, as the appropriate excise duties are included in the purchase price. Drivers can be prosecuted for using green diesel in a vehicle on a public road."
+},
+{
+  "id": 194,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "When must a tractor or works vehicle be fitted with a rear-view mirror?",
+  "image": "",
+  "answers": [
+    "A rear-view mirror must always be fitted.",
+    "A rear-view mirror must be fitted only when towing a trailer.",
+    "A rear-view mirror is not required in a tractor or works vehicle.",
+    "A rear-view mirror must be fitted only when towing a trailer over 8 metres long."
+  ],
+  "correctAnswer": "A rear-view mirror must always be fitted.",
+  "explanation": "All vehicles used on a public road must have a rear-view mirror. The mirror should be used to enable the driver to see the traffic and road conditions behind and to each side."
+},
+{
+  "id": 195,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What is the maximum gross weight of a vehicle that may be driven by the holder of a Category B driving licence?",
+  "image": "",
+  "answers": [
+    "3,250 kilograms",
+    "3,000 kilograms",
+    "3,450 kilograms",
+    "3,500 kilograms"
+  ],
+  "correctAnswer": "3,500 kilograms",
+  "explanation": "The holder of a Category B driving licence is not permitted to drive a vehicle with a design gross vehicle weight of more than 3,500 kg. This restriction is noted on the licence."
+},
+{
+  "id": 196,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this sign mean?",
+  "image": "regulatory_sign_01_196_stop_sign",
+  "answers": [
+    "The driver must stop their vehicle.",
+    "The driver must give way to traffic coming from the right.",
+    "The driver must stop for school crossing ahead.",
+    "The driver must proceed if the way is clear."
+  ],
+  "correctAnswer": "The driver must stop their vehicle.",
+  "explanation": "This sign appears at junctions where a minor road joins a major road. You must stop your vehicle completely at a STOP sign."
+},
+{
+  "id": 197,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What must a driver do when this sign is accompanied by a white stop line on the road?",
+  "image": "regulatory_sign_02_197_stop_line_sign",
+  "answers": [
+    "Stop past the line.",
+    "Stop at the line only if you see traffic approaching.",
+    "Stop at the line.",
+    "Stop only if no traffic light is present."
+  ],
+  "correctAnswer": "Stop at the line.",
+  "explanation": "When accompanied by a STOP sign, the white stop line indicates the point at which you must stop your vehicle."
+},
+{
+  "id": 198,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this sign mean?",
+  "image": "regulatory_sign_15_198_no_entry_ahead",
+  "answers": [
+    "No entry ahead.",
+    "Cul-de-sac ahead.",
+    "No height restriction ahead.",
+    "One-way street ahead."
+  ],
+  "correctAnswer": "No entry ahead.",
+  "explanation": "This sign tells you that you must not proceed in the direction of the arrow. This is displayed to prevent traffic going in the wrong direction – for example, the wrong way up a one-way street."
+},
+{
+  "id": 199,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this sign mean?",
+  "image": "regulatory_sign_16_199_no_right_turn",
+  "answers": [
+    "Turn right ahead.",
+    "Dangerous bend to the right ahead.",
+    "No right turn.",
+    "Left turn ahead."
+  ],
+  "correctAnswer": "No right turn.",
+  "explanation": "This sign is displayed at a junction where you must not turn right."
+},
+{
+  "id": 200,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this sign mean?",
+  "image": "regulatory_sign_20_20_sign_200_maximum_30_kmh",
+  "answers": [
+    "Minimum speed is 30 km/h.",
+    "Maximum speed is 30 km/h.",
+    "Speed limit continues for 30 kilometres.",
+    "Speed should be reduced to 30 km/h temporarily."
+  ],
+  "correctAnswer": "Maximum speed is 30 km/h.",
+  "explanation": "This sign tells you that the maximum legal speed limit permitted for this section of road is 30 km/h. These signs are commonly found in slow zones in residential areas."
+},
+{
+  "id": 201,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this sign mean?",
+  "image": "regulatory_sign_21_201_maximum_50_kmh",
+  "answers": [
+      "Maximum speed is 50 km/h.",
+      "Speed limit continues for 50 kilometres.",
+      "Minimum speed is 50 km/h.",
+      "No stopping allowed within 50 km."
+  ],
+  "correctAnswer": "Maximum speed is 50 km/h.",
+  "explanation": "This sign tells you that the maximum legal speed limit permitted for this section of road is 50 km/h."
+},
+{
+  "id": 202,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this sign mean?",
+  "image": "regulatory_sign_22_202_maximum_60_kmh",
+  "answers": [
+    "Speed limit continues for 60 metres.",
+    "Maximum speed is 60 km/h.",
+    "Minimum speed is 60 km/h.",
+    "Speed applies only during daytime hours."
+  ],
+  "correctAnswer": "Maximum speed is 60 km/h.",
+  "explanation": "This sign tells you that the maximum legal speed limit permitted for this section of road is 60 km/h."
+},
+{
+  "id": 203,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this sign mean?",
+  "image": "regulatory_sign_23_203_maximum_80_kmh",
+  "answers": [
+    "Minimum speed is 80 km/h.",
+    "Maximum speed is 80 km/h.",
+    "Speed limit continues for 80 metres.",
+    "Speed limit continues for 80 km."
+  ],
+  "correctAnswer": "Maximum speed is 80 km/h.",
+  "explanation": "This sign tells you that the maximum legal speed limit permitted for this section of road is 80 km/h."
+},
+{
+  "id": 204,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this sign mean?",
+  "image": "regulatory_sign_24_204_maximum_100_kmh",
+  "answers": [
+    "Minimum speed is 100 km/h.",
+    "Speed limit continues for 100 metres.",
+    "Maximum speed is 100 km/h.",
+    "No overtaking for 100 metres."
+  ],
+  "correctAnswer": "Maximum speed is 100 km/h.",
+  "explanation": "This sign tells you that the maximum legal speed limit permitted for this section of road is 100 km/h."
+},
+{
+  "id": 205,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this sign mean?",
+  "image": "regulatory_sign_27_205_parking_not_allowed",
+  "answers": [
+    "Public service vehicles parking only.",
+    "Parking is not allowed.",
+    "Private vehicles parking only.",
+    "Public and private vehicles parking allowed."
+  ],
+  "correctAnswer": "Parking is not allowed.",
+  "explanation": "This sign tells you that parking is prohibited in both directions."
+},
+{
+  "id": 206,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this sign mean?",
+  "image": "warning_sign_31_206_the_driver_must_stop_when_red_lights_show",
+  "answers": [
+    "The driver must stop when red lights show.",
+    "Stop and wait for amber light before proceeding.",
+    "Stop and wait for green light before proceeding.",
+    "Proceed if the way is clear."
+  ],
+  "correctAnswer": "The driver must stop when red lights show.",
+  "explanation": "This sign gives advance warning that you must stop when red lights show. This sign may be displayed at a railway level crossing."
+},
+{
+  "id": 207,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this hand signal mean?",
+  "image": "hand_signal_4_207_the_cyclist_intends_to_turn_left",
+  "answers": [
+    "The cyclist intends to turn left.",
+    "The cyclist intends to stop.",
+    "The cyclist intends to turn right.",
+    "The cyclist intends to overtake another vehicle."
+  ],
+  "correctAnswer": "The cyclist intends to turn left.",
+  "explanation": "This hand signal informs other road users that the cyclist intends to make a left-hand turn."
+},
+{
+  "id": 208,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this traffic light mean?",
+  "image": "tl_208_the_driver_may_proceed_in_the_direction_of_the_green_arrow_if_the_way_is_clear",
+  "answers": [
+    "The driver must divert to the right.",
+    "The driver must stop and wait until the full green light appears.",
+    "The driver may proceed in the direction of the green arrow if the way is clear.",
+    "The driver must stop and wait for the red light to turn green."
+  ],
+  "correctAnswer": "The driver may proceed in the direction of the green arrow if the way is clear.",
+  "explanation": "A green arrow (filter light) means that traffic may proceed in the direction of the arrow if it is safe to do so."
+},
+{
+  "id": 209,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this traffic light mean?",
+  "image": "tl_209_traffic_must_stop_at_the_traffic_light",
+  "answers": [
+    "Traffic may stop if safe to do so.",
+    "Traffic must stop at the traffic light.",
+    "Traffic must proceed if safe to do so.",
+    "Traffic must stop if the light is amber."
+  ],
+  "correctAnswer": "Traffic must stop at the traffic light.",
+  "explanation": "A red light means STOP. You must not go beyond the stop line or (if there is no stop line) beyond the light."
+},
+{
+  "id": 210,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What road users must comply with traffic lights (including pedestrian lights)?",
+  "image": "",
+  "answers": [
+    "All road users.",
+    "Drivers and cyclists only.",
+    "Drivers and pedestrians only.",
+    "Cyclists and pedestrians only."
+  ],
+  "correctAnswer": "All road users.",
+  "explanation": "All road users including pedestrians must comply with traffic controls. Drivers should be aware that traffic lights and pedestrian lights can be combined at junctions and should show caution and consideration to pedestrians."
+},
+{
+  "id": 211,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this sign mean?",
+  "image": "worker_sign_13_211_loose_chippings_on_road",
+  "answers": [
+    "Loose chippings on road.",
+    "Slippery road up ahead.",
+    "Uneven surface on left.",
+    "Sharp bend ahead."
+  ],
+  "correctAnswer": "Loose chippings on road.",
+  "explanation": "This roadworks warning sign tells you that the road ahead has been resurfaced and there may be loose chippings. You should reduce speed while driving through this area as the loose chippings could affect your vehicle’s road holding and braking."
+},
+{
+  "id": 212,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "When must the holder of a learner permit display L plates on their car?",
+  "image": "",
+  "answers": [
+    "At all times when driving.",
+    "When driving on their first learner permit.",
+    "When driving unaccompanied by a full licence holder.",
+    "Only when driving outside urban areas."
+  ],
+  "correctAnswer": "At all times when driving.",
+  "explanation": "The holder of a learner permit must display L plates on the front and rear of their car at all times when driving on public roads."
+},
+{
+  "id": 213,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "When can a child under the age of sixteen drive a tractor on a public road?",
+  "image": "",
+  "answers": [
+    "A child under 16 is allowed to drive a tractor on a public road when accompanied by a fully licensed driver.",
+    "Children under 16 are not allowed to drive a tractor on a public road.",
+    "A child under 16 is allowed to drive a tractor on a public road when they hold a learner permit.",
+    "A child under 16 may drive a tractor without any restrictions if supervised by a parent."
+  ],
+  "correctAnswer": "Children under 16 are not allowed to drive a tractor on a public road.",
+  "explanation": "Persons under 16 years of age are not permitted to drive a tractor in a public place."
+},
+{
+  "id": 214,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this sign mean?",
+  "image": "regulatory_sign_12_214_keep_left",
+  "answers": [
+    "Pass on the left.",
+    "Steep decline to the left.",
+    "Keep left.",
+    "Left turn only for trucks."
+  ],
+  "correctAnswer": "Keep left.",
+  "explanation": "This sign tells you that you must keep left. It is usually displayed at a traffic island in the centre of the road and also used on occasion to control traffic at roadworks."
+},
+{
+  "id": 215,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this sign mean?",
+  "image": "regulatory_sign_13_215_keep_right",
+  "answers": [
+    "Steep decline from the left.",
+    "Traffic crossing from the left.",
+    "Keep right.",
+    "Steep incline from the left."
+  ],
+  "correctAnswer": "Keep right.",
+  "explanation": "This sign tells you that you must keep right. It is usually found in a one-way system where the traffic is required to keep to the right and also used on occasion to control traffic at roadworks."
+},
+{
+  "id": 216,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this sign mean?",
+  "image": "regulatory_sign_17_216_no_right_turn",
+  "answers": [
+    "No right turn.",
+    "Turn right only.",
+    "Cul-de-sac to the right.",
+    "No entry to the right."
+  ],
+  "correctAnswer": "No right turn.",
+  "explanation": "This sign is displayed at a junction where you may not turn right."
+},
+{
+  "id": 217,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this sign mean?",
+  "image": "regulatory_sign_18_217_no_left_turn",
+  "answers": [
+    "No left turn.",
+    "Turn right only.",
+    "No right turn.",
+    "No U-turn."
+  ],
+  "correctAnswer": "No left turn.",
+  "explanation": "This sign is displayed at a junction where you may not turn left."
+},
+{
+  "id": 218,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this sign mean?",
+  "image": "regulatory_sign_25_218_max_120",
+  "answers": [
+    "Traffic merging at 120 metres ahead.",
+    "Minimum speed is 120 km/h.",
+    "Maximum speed is 120 km/h.",
+    "Traffic merging at 100 metres ahead."
+  ],
+  "correctAnswer": "Maximum speed is 120 km/h.",
+  "explanation": "This sign tells you that the maximum legal speed limit permitted for this section of road is 120 km/h."
+},
+{
+  "id": 219,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this sign mean?",
+  "image": "regulatory_sign_26_219_parking_permitted_times",
+  "answers": [
+    "Parking prohibited at the times shown.",
+    "Maximum parking for one hour during times shown.",
+    "Parking permitted during the times shown.",
+    "Parking allowed only on weekends."
+  ],
+  "correctAnswer": "Parking permitted during the times shown.",
+  "explanation": "These signs tell you that parking is permitted in both directions, but only at the times shown on the information plate."
+},
+{
+  "id": 220,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this sign mean?",
+  "image": "regulatory_sign_28_220_clearway_no_stopping_or_parking",
+  "answers": [
+    "Road closed during the times shown.",
+    "Clearway - no stopping or parking during the times shown.",
+    "Pedestrianised street - no access for vehicles.",
+    "Parking permitted during the times shown."
+  ],
+  "correctAnswer": "Clearway - no stopping or parking during the times shown.",
+  "explanation": "A clearway sign means that stopping or parking is not permitted in this area during the times shown on the information plate."
+},
+{
+  "id": 221,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this sign mean?",
+  "image": "warning_sign_3_221_staggered_crossroads_ahead",
+  "answers": [
+    "Staggered crossroads ahead with roads of equal importance.",
+    "Cul-de-sac to both left and right.",
+    "Roads closed ahead to both left and right.",
+    "One-way street ahead."
+  ],
+  "correctAnswer": "Staggered crossroads ahead with roads of equal importance.",
+  "explanation": "This sign gives advance warning of a staggered junction ahead with roads to the left and right. Be aware that vehicles may be emerging from these roads."
+},
+{
+  "id": 222,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this sign mean?",
+  "image": "warning_sign_22_1_222_dual_carriageway_ends",
+  "answers": [
+    "Road narrows ahead.",
+    "Tunnel ahead.",
+    "Dual carriageway ends.",
+    "Bridge ahead."
+  ],
+  "correctAnswer": "Dual carriageway ends.",
+  "explanation": "This sign gives advance warning of the end of a dual carriageway. You will soon be entering a 2-way road."
+},
+{
+  "id": 223,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this sign mean?",
+  "image": "motorway_sign_4_223_exit_300_meters",
+  "answers": [
+    "Crossing traffic ahead.",
+    "Three hundred meters to the next exit.",
+    "Three lanes ahead.",
+    "Next junction is two hundred meters ahead."
+  ],
+  "correctAnswer": "Three hundred meters to the next exit.",
+  "explanation": "This is a motorway information sign that tells you that the next exit off the motorway is 300 metres ahead."
+},
+{
+  "id": 224,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this sign mean?",
+  "image": "motorway_sign_6_224_exit_100_meters",
+  "answers": [
+    "Sharp descent for 100 metres.",
+    "100 metres to the next exit.",
+    "Low bridge ahead.",
+    "Sharp ascent for 100 metres."
+  ],
+  "correctAnswer": "100 metres to the next exit.",
+  "explanation": "This is a motorway information sign that tells you that the next exit off the motorway is 100 metres ahead."
+},
+{
+  "id": 225,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this hand signal mean?",
+  "image": "hand_signal_6_225_cyclist_left_turn",
+  "answers": [
+    "The cyclist intends to cross the road.",
+    "The cyclist intends to stop.",
+    "The cyclist intends to turn left.",
+    "The cyclist intends to speed up."
+  ],
+  "correctAnswer": "The cyclist intends to turn left.",
+  "explanation": "This hand signal informs other road users that the cyclist intends to turn left."
+},
+{
+  "id": 226,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this Garda signal mean?",
+  "image": "hand_signal_13_226_hand_signal_stop_front",
+  "answers": [
+    "Proceed if approaching from the front.",
+    "Stop if approaching from behind.",
+    "Stop if approaching from the front.",
+    "Proceed if approaching from behind."
+  ],
+  "correctAnswer": "Stop if approaching from the front.",
+  "explanation": "When approaching a Garda giving this signal you must stop."
+},
+{
+  "id": 227,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this road marking indicate?",
+  "image": "i_227_zebra_crossing",
+  "answers": [
+    "Speed control ramp.",
+    "Pelican crossing.",
+    "Zebra crossing.",
+    "No entry."
+  ],
+  "correctAnswer": "Zebra crossing.",
+  "explanation": "A zebra crossing is a designated area for pedestrians to cross the road. As a driver you must always yield to pedestrians on a zebra crossing."
+},
+{
+  "id": 228,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What is the maximum speed allowed for cars and motorcycles on motorways?",
+  "image": "",
+  "answers": [
+    "60 km/h.",
+    "80 km/h.",
+    "120 km/h.",
+    "110 km/h."
+  ],
+  "correctAnswer": "120 km/h.",
+  "explanation": "It is illegal to exceed 120 km/h when driving on a motorway."
+},
+{
+  "id": 229,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "Unless otherwise indicated, what is the maximum speed allowed for a car towing a caravan on a motorway?",
+  "image": "",
+  "answers": [
+    "90 km/h.",
+    "100 km/h.",
+    "80 km/h.",
+    "120 km/h."
+  ],
+  "correctAnswer": "80 km/h.",
+  "explanation": "When towing a caravan on a motorway it is illegal to exceed 80 km/h – excessive speed will make such a vehicle unstable."
+},
+{
+  "id": 230,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "Unless otherwise indicated, what is the maximum speed allowed for a car towing a trailer on a motorway?",
+  "image": "",
+  "answers": [
+    "120 km/h.",
+    "60 km/h.",
+    "80 km/h.",
+    "100 km/h."
+  ],
+  "correctAnswer": "80 km/h.",
+  "explanation": "When towing a trailer on a motorway it is illegal to exceed 80 km/h – excessive speed will make such a vehicle unstable."
+},
+{
+  "id": 231,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "Who is authorized to see a driver’s vehicle registration document?",
+  "image": "",
+  "answers": [
+    "Any person with whom the driver is involved in a collision.",
+    "Any Fire Brigade or Ambulance personnel at the scene of a collision the driver has been involved in.",
+    "A member of the car recovery company or anyone assisting in the recovery.",
+    "A Garda may ask you to produce the vehicle’s registration document at a named Garda station."
+  ],
+  "correctAnswer": "A Garda may ask you to produce the vehicle’s registration document at a named Garda station.",
+  "explanation": "A Garda may demand to see your driving licence at any time, and you should always carry this with you when driving. A Garda may also examine your insurance disc, tax disc and NCT disc (if applicable). A Garda may ask you to produce other documents (including the vehicle’s registration document) at a named Garda station within 10 days."
+},
+{
+  "id": 232,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this sign mean?",
+  "image": "regulatory_sign_7_232_straight_ahead_only",
+  "answers": [
+    "Straight ahead only.",
+    "Height restriction ahead.",
+    "Motorway ahead.",
+    "Diversion ahead."
+  ],
+  "correctAnswer": "Straight ahead only.",
+  "explanation": "This sign tells you that you must proceed straight ahead. This sign is usually displayed on the entry to a one-way street."
+},
+{
+  "id": 233,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "Unless otherwise indicated, what is the maximum speed allowed for cars or motorcycles on national roads?",
+  "image": "",
+  "answers": [
+    "120 km/h.",
+    "80 km/h.",
+    "60 km/h.",
+    "100 km/h."
+  ],
+  "correctAnswer": "100 km/h.",
+  "explanation": "It is illegal to exceed 100 km/h when driving on a single carriageway national road."
+},
+{
+  "id": 234,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "Unless otherwise indicated, what is the maximum speed allowed for a car towing a caravan on national roads?",
+  "image": "",
+  "answers": [
+    "60 km/h.",
+    "100 km/h.",
+    "80 km/h.",
+    "120 km/h."
+  ],
+  "correctAnswer": "80 km/h.",
+  "explanation": "When towing a caravan on a national road, it is illegal to exceed 80 km/h – excessive speed will make such a vehicle unstable."
+},
+{
+  "id": 235,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "Unless otherwise indicated, what is the maximum speed allowed for a car towing a trailer on national roads?",
+  "image": "",
+  "answers": [
+    "100 km/h.",
+    "80 km/h.",
+    "120 km/h.",
+    "60 km/h."
+  ],
+  "correctAnswer": "80 km/h.",
+  "explanation": "When towing a trailer on a national road, it is illegal to exceed 80 km/h – exceeding this speed will make the vehicle unstable."
+},
+
+{
+  "id": 236,
+  "category": "Legal Matters/Rules of the Road",
+  "question": "What does this sign mean?",
+  "image": "worker_sign_2_236_uneven_surface_ahead",
+  "answers": [
+      "Road closed ahead.",
+      "Uneven surface ahead.",
+      "Men at work ahead.",
+      "Temporary traffic signals ahead."
+  ],
+  "correctAnswer": "Uneven surface ahead.",
+  "explanation": "This roadworks warning sign tells you that the surface ahead is uneven and you should approach with caution."
+}
+]
